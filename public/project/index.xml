@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Luna L. Sánchez Reyes</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Luna L. Sanchez-Reyes, 2019</copyright><lastBuildDate>Sat, 19 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>Datelife</title>
+      <link>/project/datelife/</link>
+      <pubDate>Sat, 19 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/project/datelife/</guid>
+      <description>&lt;p&gt;Talk about:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The premises of datelife, why is it important.&lt;/li&gt;
+&lt;li&gt;The history of the datelife project. Link to Brian presentation in evolution 2010 available from youtube, mention first developers.&lt;/li&gt;
+&lt;li&gt;Link to my poster from evolution, or do a presentation about it.&lt;/li&gt;
+&lt;li&gt;Link to the biorxiv preprint&lt;/li&gt;
+&lt;li&gt;Talk about preliminary results from datelife_paper2&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Add Brian as a coauthor&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>iNaturalist phylogenies</title>
+      <link>/project/inaturalist-datelife/</link>
+      <pubDate>Sat, 19 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/project/inaturalist-datelife/</guid>
+      <description>&lt;p&gt;Talk about:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;In what context was this developed.&lt;/li&gt;
+&lt;li&gt;Link to Phylotasticed&lt;/li&gt;
+&lt;li&gt;improvements, future stuff&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Add Lauren Chan profile&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Phylotastic</title>
+      <link>/project/phylotastic/</link>
+      <pubDate>Sat, 19 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/project/phylotastic/</guid>
+      <description>&lt;p&gt;Talk about:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The premises of phylotastic, why I think it is important.&lt;/li&gt;
+&lt;li&gt;My participation in the project, rphylotastic&lt;/li&gt;
+&lt;li&gt;Link to the biorxiv preprint and other papers&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Add all other authors?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>/project/external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/external-project/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

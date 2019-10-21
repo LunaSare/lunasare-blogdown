@@ -79,6 +79,7 @@
 ~%2Fblogdown_cv%2Fthemes%2Fhugo-academic%2Flayouts%2F_default%2Fbaseof.html="FFD8AD88"
 ~%2Fblogdown_cv%2Fthemes%2Fhugo-academic%2Flayouts%2Fpartials%2Fsite_footer.html="731BC38"
 ~%2Fblogdown_cv%2Fthemes%2Fhugo-academic%2Flayouts%2Fpartials%2Fwidgets%2Fcontact.html="14BB9F50"
+<<<<<<< HEAD
 ~%2Fblogdown_lunasare%2Fcontent%2Fabout_and_contact%2F2-about-me.md="E16E1414"
 ~%2Fblogdown_lunasare%2Fcontent%2Fauthors%2Fadmin%2F_index.md="F6995345"
 ~%2Fblogdown_lunasare%2Fcontent%2Fhome%2F2-projects.md="928CF33"
@@ -104,3 +105,7 @@
 ~%2Fblogdown_lunasare%2Fcontent%2Fpublications%2F_index.md="C3BB7892"
 ~%2Fblogdown_lunasare%2Fcontent%2Fpublications%2Fjournal-article%2Fcite.bib="17A4BA7B"
 ~%2Fblogdown_lunasare%2Fcontent%2Fpublications%2Fpreprint%2Findex.md="E2CCBA66"
+=======
+~%2Fblogdown_lunasare%2Fcontent%2Fhome%2F2-projects.md="928CF33"
+~%2Fblogdown_lunasare%2Fcontent%2Fproject%2Fexternal-project%2Findex.md="DAE9A799"
+>>>>>>> 66a6b4129134d33c1c6c7fd8af9601c864509fe2

@@ -5,7 +5,11 @@
     <link>/authors/admin/</link>
       <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Luna L. Sánchez Reyes</description>
+<<<<<<< HEAD
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Luna L. Sanchez-Reyes, 2019</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+=======
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Luna L. Sanchez-Reyes, 2019</copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+>>>>>>> 66a6b4129134d33c1c6c7fd8af9601c864509fe2
     <image>
       <url>/img/icon-192.png</url>
       <title>Luna L. Sánchez Reyes</title>
@@ -13,6 +17,7 @@
     </image>
     
     <item>
+<<<<<<< HEAD
       <title>DateLife, leveraging databases and analytical tools to reveal the dated Tree of Life</title>
       <link>/publications/2019-sanchez-reyes/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
@@ -25,11 +30,19 @@
 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
+=======
+      <title>An example preprint / working paper</title>
+      <link>/publications/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publications/preprint/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+>>>>>>> 66a6b4129134d33c1c6c7fd8af9601c864509fe2
   &lt;div&gt;
     Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
   &lt;/div&gt;
 &lt;/div&gt;
 
+<<<<<<< HEAD
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 --&gt;
@@ -57,6 +70,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 --&gt;
+=======
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+>>>>>>> 66a6b4129134d33c1c6c7fd8af9601c864509fe2
 </description>
     </item>
     
@@ -128,6 +144,7 @@ date: 2019-09-01
     </item>
     
     <item>
+<<<<<<< HEAD
       <title>Thirty clues to the exceptional diversification of flowering plants</title>
       <link>/publications/2018-magallon/</link>
       <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
@@ -248,6 +265,8 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     </item>
     
     <item>
+=======
+>>>>>>> 66a6b4129134d33c1c6c7fd8af9601c864509fe2
       <title>Academic: the website builder for Hugo</title>
       <link>/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
@@ -368,50 +387,79 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     </item>
     
     <item>
+<<<<<<< HEAD
       <title>A metacalibrated time-tree documents the early rise of flowering plant phylogenetic diversity</title>
       <link>/publications/2015-magallon/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>/publications/2015-magallon/</guid>
       <description>&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
+=======
+      <title>An example conference paper</title>
+      <link>/publications/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>/publications/conference-paper/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+>>>>>>> 66a6b4129134d33c1c6c7fd8af9601c864509fe2
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 66a6b4129134d33c1c6c7fd8af9601c864509fe2
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
   &lt;/div&gt;
 &lt;/div&gt;
 
+<<<<<<< HEAD
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 --&gt;
+=======
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+>>>>>>> 66a6b4129134d33c1c6c7fd8af9601c864509fe2
 </description>
     </item>
     
     <item>
       <title>Hierarchical clustering of genetic diversity associated to different levels of mutation and recombination in Escherichia coli, a study based on Mexican isolates.</title>
+<<<<<<< HEAD
       <link>/publications/2013-gonzalez/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>/publications/2013-gonzalez/</guid>
       <description>&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
+=======
+      <link>/publications/journal-article/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publications/journal-article/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+>>>>>>> 66a6b4129134d33c1c6c7fd8af9601c864509fe2
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 66a6b4129134d33c1c6c7fd8af9601c864509fe2
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
   &lt;/div&gt;
 &lt;/div&gt;
 
+<<<<<<< HEAD
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 --&gt;
+=======
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+>>>>>>> 66a6b4129134d33c1c6c7fd8af9601c864509fe2
 </description>
     </item>
     

@@ -29,6 +29,7 @@
 </description>
     </item>
     
+<<<<<<< HEAD
     <item>
       <title>Phylotastic, improving access to tree-of-life knowledge with flexible, on-the-fly delivery of trees</title>
       <link>/publications/2019-nguyen/</link>
@@ -53,5 +54,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 </description>
     </item>
     
+=======
+>>>>>>> 66a6b4129134d33c1c6c7fd8af9601c864509fe2
   </channel>
 </rss>

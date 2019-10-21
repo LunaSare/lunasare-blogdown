@@ -65,6 +65,7 @@
 </description>
     </item>
     
+<<<<<<< HEAD
     <item>
       <title>DateLife, leveraging databases and analytical tools to reveal the dated Tree of Life</title>
       <link>/publications/2019-sanchez-reyes/</link>
@@ -113,5 +114,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 </description>
     </item>
     
+=======
+>>>>>>> 66a6b4129134d33c1c6c7fd8af9601c864509fe2
   </channel>
 </rss>

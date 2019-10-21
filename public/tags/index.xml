@@ -53,6 +53,7 @@
     </item>
     
     <item>
+<<<<<<< HEAD
       <title>R package</title>
       <link>/tags/r-package/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
@@ -121,6 +122,12 @@
       <link>/tags/birth-death/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
       <guid>/tags/birth-death/</guid>
+=======
+      <title>Source Themes</title>
+      <link>/tags/source-themes/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/source-themes/</guid>
+>>>>>>> 66a6b4129134d33c1c6c7fd8af9601c864509fe2
       <description></description>
     </item>
     
@@ -164,6 +171,7 @@
       <description></description>
     </item>
     
+<<<<<<< HEAD
     <item>
       <title>Microbiology</title>
       <link>/tags/microbiology/</link>
@@ -180,5 +188,7 @@
       <description></description>
     </item>
     
+=======
+>>>>>>> 66a6b4129134d33c1c6c7fd8af9601c864509fe2
   </channel>
 </rss>

@@ -12,9 +12,15 @@ education:
     year: 2010
 email: ""
 interests:
+<<<<<<< HEAD
 - Effects of statistical uncertainty
 - Coding with python
 - Open Science in Education
+=======
+- Evolution
+- Bioinformatics
+- Education
+>>>>>>> 66a6b4129134d33c1c6c7fd8af9601c864509fe2
 name: Luna L. Sánchez Reyes
 organizations:
 - name: University of California, Merced
@@ -42,6 +48,10 @@ user_groups:
 - Visitors
 ---
 
+<<<<<<< HEAD
 I am a biologist specialized in evolutionary biology. I am currently working as a postdoc at the McTavish Lab, at the School of Natural Sciences of the University of California, Merced. My research interests include species diversification processes, timing of species origin, the intercept between micro and macroevolution, open science, and science communication and reproducibility. For the past few years, I have been working on method and software development for various projects, including platforms such as [Datelife](http://datelife.org/query/), [Phylotastic](https://phylo.cs.nmsu.edu/), and most recently [Open Tree of Life](https://tree.opentreeoflife.org/opentree/argus/opentree11.4@ott93302). 
+=======
+I am a biologist specialized in evolutionary biology. I am currently working as a postdoc at the McTavish Lab, at the School of Natural Sciences of the University of California, Merced. My research interests include species diversification processes, timing of species origin, the intercept between micro and macroevolution, open science, and science communication and reproducibility. For the past few years, I have been working on method and software development for various projects, including platforms such as [Datelife](http://datelife.org/query/), [Phylotastic](https://phylo.cs.nmsu.edu/), and most recently [Open Tree of Life](https://tree.opentreeoflife.org/opentree/argus/opentree11.4@ott93302),. 
+>>>>>>> 66a6b4129134d33c1c6c7fd8af9601c864509fe2
 
 <!--Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.-->

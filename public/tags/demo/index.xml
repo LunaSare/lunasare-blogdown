@@ -14,9 +14,15 @@
     
     <item>
       <title>External Project</title>
+<<<<<<< HEAD
       <link>/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/external-project/</guid>
+=======
+      <link>/project/external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/external-project/</guid>
+>>>>>>> 66a6b4129134d33c1c6c7fd8af9601c864509fe2
       <description></description>
     </item>
     

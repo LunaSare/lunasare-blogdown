@@ -31,6 +31,7 @@
 </description>
     </item>
     
+<<<<<<< HEAD
     <item>
       <title>A metacalibrated time-tree documents the early rise of flowering plant phylogenetic diversity</title>
       <link>/publications/2015-magallon/</link>
@@ -55,5 +56,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 </description>
     </item>
     
+=======
+>>>>>>> 66a6b4129134d33c1c6c7fd8af9601c864509fe2
   </channel>
 </rss>

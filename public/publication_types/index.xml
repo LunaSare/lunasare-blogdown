@@ -5,7 +5,11 @@
     <link>/publication_types/</link>
       <atom:link href="/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
+<<<<<<< HEAD
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Luna L. Sanchez-Reyes, 2019</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+=======
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Luna L. Sanchez-Reyes, 2019</copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+>>>>>>> 66a6b4129134d33c1c6c7fd8af9601c864509fe2
     <image>
       <url>/img/icon-192.png</url>
       <title>Publication_types</title>
@@ -15,15 +19,33 @@
     <item>
       <title>3</title>
       <link>/publication_types/3/</link>
+<<<<<<< HEAD
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+=======
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+>>>>>>> 66a6b4129134d33c1c6c7fd8af9601c864509fe2
       <guid>/publication_types/3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+<<<<<<< HEAD
+      <title>2</title>
+      <link>/publication_types/2/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+=======
+      <title>1</title>
+      <link>/publication_types/1/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>/publication_types/1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2</title>
       <link>/publication_types/2/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+>>>>>>> 66a6b4129134d33c1c6c7fd8af9601c864509fe2
       <guid>/publication_types/2/</guid>
       <description></description>
     </item>

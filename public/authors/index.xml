@@ -5,7 +5,11 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
+<<<<<<< HEAD
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Luna L. Sanchez-Reyes, 2019</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+=======
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Luna L. Sanchez-Reyes, 2019</copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+>>>>>>> 66a6b4129134d33c1c6c7fd8af9601c864509fe2
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,15 +19,22 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
+<<<<<<< HEAD
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I am a biologist specialized in evolutionary biology. I am currently working as a postdoc at the McTavish Lab, at the School of Natural Sciences of the University of California, Merced. My research interests include species diversification processes, timing of species origin, the intercept between micro and macroevolution, open science, and science communication and reproducibility. For the past few years, I have been working on method and software development for various projects, including platforms such as &lt;a href=&#34;http://datelife.org/query/&#34; target=&#34;_blank&#34;&gt;Datelife&lt;/a&gt;, &lt;a href=&#34;https://phylo.cs.nmsu.edu/&#34; target=&#34;_blank&#34;&gt;Phylotastic&lt;/a&gt;, and most recently &lt;a href=&#34;https://tree.opentreeoflife.org/opentree/argus/opentree11.4@ott93302&#34; target=&#34;_blank&#34;&gt;Open Tree of Life&lt;/a&gt;.&lt;/p&gt;
+=======
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am a biologist specialized in evolutionary biology. I am currently working as a postdoc at the McTavish Lab, at the School of Natural Sciences of the University of California, Merced. My research interests include species diversification processes, timing of species origin, the intercept between micro and macroevolution, open science, and science communication and reproducibility. For the past few years, I have been working on method and software development for various projects, including platforms such as &lt;a href=&#34;http://datelife.org/query/&#34; target=&#34;_blank&#34;&gt;Datelife&lt;/a&gt;, &lt;a href=&#34;https://phylo.cs.nmsu.edu/&#34; target=&#34;_blank&#34;&gt;Phylotastic&lt;/a&gt;, and most recently &lt;a href=&#34;https://tree.opentreeoflife.org/opentree/argus/opentree11.4@ott93302&#34; target=&#34;_blank&#34;&gt;Open Tree of Life&lt;/a&gt;,.&lt;/p&gt;
+>>>>>>> 66a6b4129134d33c1c6c7fd8af9601c864509fe2
 
 &lt;!--Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.--&gt;
 </description>
     </item>
     
     <item>
+<<<<<<< HEAD
       <title>Brian O&#39;Meara</title>
       <link>/authors/brian-omeara/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
@@ -220,13 +231,23 @@
       <link>/authors/tania-hernandez-hernandez/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>/authors/tania-hernandez-hernandez/</guid>
+=======
+      <title>Robert Ford</title>
+      <link>/authors/robert-ford/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>/authors/robert-ford/</guid>
+>>>>>>> 66a6b4129134d33c1c6c7fd8af9601c864509fe2
       <description></description>
     </item>
     
     <item>
       <title>Andrea González-González</title>
       <link>/authors/andrea-gonzalez-gonzalez/</link>
+<<<<<<< HEAD
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+=======
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+>>>>>>> 66a6b4129134d33c1c6c7fd8af9601c864509fe2
       <guid>/authors/andrea-gonzalez-gonzalez/</guid>
       <description></description>
     </item>
@@ -234,15 +255,33 @@
     <item>
       <title>Gabriela Delgado-Sapien</title>
       <link>/authors/gabriela-delgado-sapien/</link>
+<<<<<<< HEAD
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+=======
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+>>>>>>> 66a6b4129134d33c1c6c7fd8af9601c864509fe2
       <guid>/authors/gabriela-delgado-sapien/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+<<<<<<< HEAD
+      <title>Valeria Souza</title>
+      <link>/authors/valeria-souza/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+=======
+      <title>Luis E. Eguiarte</title>
+      <link>/authors/luis-e.-eguiarte/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/luis-e.-eguiarte/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Valeria Souza</title>
       <link>/authors/valeria-souza/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+>>>>>>> 66a6b4129134d33c1c6c7fd8af9601c864509fe2
       <guid>/authors/valeria-souza/</guid>
       <description></description>
     </item>

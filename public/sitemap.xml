@@ -83,7 +83,6 @@
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>/authors/admin/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
@@ -124,8 +123,6 @@
   </url>
   
   <url>
-=======
->>>>>>> 66a6b4129134d33c1c6c7fd8af9601c864509fe2
     <loc>/post/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
@@ -136,7 +133,6 @@
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>/publication_types/2/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
   </url>
@@ -184,40 +180,6 @@
   <url>
     <loc>/publications/2018-flores-abreu/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-=======
-    <loc>/authors/admin/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publications/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publications/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
->>>>>>> 66a6b4129134d33c1c6c7fd8af9601c864509fe2
   </url>
   
   <url>
@@ -241,7 +203,6 @@
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>/tags/flowering-plants/</loc>
     <lastmod>2018-10-30T00:00:00+00:00</lastmod>
   </url>
@@ -277,8 +238,6 @@
   </url>
   
   <url>
-=======
->>>>>>> 66a6b4129134d33c1c6c7fd8af9601c864509fe2
     <loc>/license/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
@@ -294,7 +253,6 @@
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>/authors/abu-saleh-md-tayeen/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -400,18 +358,17 @@
   </url>
   
   <url>
-=======
->>>>>>> 66a6b4129134d33c1c6c7fd8af9601c864509fe2
     <loc>/tags/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>/external-project/</loc>
-=======
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/project/external-project/</loc>
->>>>>>> 66a6b4129134d33c1c6c7fd8af9601c864509fe2
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -461,7 +418,6 @@
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>/publications/2015-magallon/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -503,48 +459,6 @@
   
   <url>
     <loc>/courses/</loc>
-=======
-    <loc>/publication_types/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publications/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/robert-ford/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/2/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/andrea-gonzalez-gonzalez/</loc>
-  </url>
-  
-  <url>
-    <loc>/courses/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/gabriela-delgado-sapien/</loc>
-  </url>
-  
-  <url>
-    <loc>/publications/journal-article/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/luis-e.-eguiarte/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/valeria-souza/</loc>
->>>>>>> 66a6b4129134d33c1c6c7fd8af9601c864509fe2
   </url>
   
 </urlset>

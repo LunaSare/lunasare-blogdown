@@ -5,11 +5,7 @@
     <link>/publication_types/3/</link>
       <atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-<<<<<<< HEAD
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Luna L. Sanchez-Reyes, 2019</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
-=======
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Luna L. Sanchez-Reyes, 2019</copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
->>>>>>> 66a6b4129134d33c1c6c7fd8af9601c864509fe2
     <image>
       <url>/img/icon-192.png</url>
       <title>3</title>
@@ -17,7 +13,6 @@
     </image>
     
     <item>
-<<<<<<< HEAD
       <title>DateLife, leveraging databases and analytical tools to reveal the dated Tree of Life</title>
       <link>/publications/2019-sanchez-reyes/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
@@ -30,19 +25,11 @@
 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
-=======
-      <title>An example preprint / working paper</title>
-      <link>/publications/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/publications/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
->>>>>>> 66a6b4129134d33c1c6c7fd8af9601c864509fe2
   &lt;div&gt;
     Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
   &lt;/div&gt;
 &lt;/div&gt;
 
-<<<<<<< HEAD
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 --&gt;
@@ -70,9 +57,6 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 --&gt;
-=======
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
->>>>>>> 66a6b4129134d33c1c6c7fd8af9601c864509fe2
 </description>
     </item>
     

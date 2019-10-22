@@ -53,15 +53,10 @@ I was born in Mexico city, one of the largest cities in the world at the time. I
 <img src="maps.jpg" class="center-block" alt="OHSU Research Week Poster" style="width:60%;height:60%;">
 -->
 
-
-<<<<<<< HEAD
-My [research](https://profiles.impactstory.org/u/0000-0001-7668-2528) focuses on method testing and development, with a particular interest in models of species diversiifcation. In the past few years, I have been investing a relevant amount of my time on software development for open science platforms, funded by the National Science Foundation. 
+My [research](https://profiles.impactstory.org/u/0000-0001-7668-2528) focuses on method testing and development, with a particular interest in models of species diversification. In the past few years, I have been investing a relevant amount of my time on software development for open science platforms, funded by the National Science Foundation. 
 <!-- I have presented my work in Paris and in several conferences.
 -->
 <!--focus on health-related applications of Natural Language Processing-based methods, and was funded by the National Institutes of Health, the Oregon Clinical and Translational Research Institute, and Autism Speaks. I have written numerous scientific [publications](/publication) on autism and neurodevelopmental disorders and have presented my research at over 25 international conferences.-->
-=======
-My [research](https://profiles.impactstory.org/u/0000-0001-7668-2528) <!--focus on health-related applications of Natural Language Processing-based methods, and was funded by the National Institutes of Health, the Oregon Clinical and Translational Research Institute, and Autism Speaks. I have written numerous scientific [publications](/publication) on autism and neurodevelopmental disorders and have presented my research at over 25 international conferences.-->
->>>>>>> 66a6b4129134d33c1c6c7fd8af9601c864509fe2
 
 <!--
 <img src="students.jpg" class="center-block" alt="OHSU Research Week Poster" style="width:60%;height:60%;">
@@ -69,7 +64,7 @@ My [research](https://profiles.impactstory.org/u/0000-0001-7668-2528) <!--focus 
 
 <!--While at OHSU, I became an avid user of the statistical programming language R, both in the lab as a Principal Investigator and in the classroom as a professor. I developed a passion for programming and education, and during my tenure at OHSU I developed and taught multiple graduate-level [data science courses](/categories/course/) and [workshops](/categories/workshop/). I also trained the [Office of Research Impact at the Oregon Clinical & Translational Research Institute](https://www.ohsu.edu/xd/research/centers-institutes/octri/) to use R, and consulted with the University of Oregon College of Education on the development of a [graduate data science specialization track](https://education.uoregon.edu/). I received an [Excellence in Education award](https://www.ohsu.edu/school-of-medicine/honors-and-awards-ceremony-2018-school-medicine) from OHSU in 2018.-->
 
-You can follow my current work in software development to make available scientific information on time of origin of species [GitHub](https://github.com/LunaSare). In my free time, I love dancing, coloring, designing, and spending time with my family and friends!
+You can follow my current work in software development to make available scientific information on time of origin of species on [GitHub](https://github.com/LunaSare). In my free time, I love dancing, coloring, designing, and spending time with my family and friends!
 
 Thank you for reading!
 

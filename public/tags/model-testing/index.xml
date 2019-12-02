@@ -5,12 +5,20 @@
     <link>/tags/model-testing/</link>
       <atom:link href="/tags/model-testing/index.xml" rel="self" type="application/rss+xml" />
     <description>Model testing</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Luna L. Sanchez-Reyes, 2019</copyright><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Luna L. Sanchez-Reyes</copyright><lastBuildDate>Sat, 19 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Model testing</title>
       <link>/tags/model-testing/</link>
     </image>
+    
+    <item>
+      <title>Models of Species Diversification</title>
+      <link>/project/diversification/</link>
+      <pubDate>Sat, 19 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/project/diversification/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Recent radiation and dispersal of an ancient lineage, the case of Fouquieria (Fouquiericeae, Ericales) in North American deserts</title>

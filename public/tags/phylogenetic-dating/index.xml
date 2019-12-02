@@ -5,7 +5,7 @@
     <link>/tags/phylogenetic-dating/</link>
       <atom:link href="/tags/phylogenetic-dating/index.xml" rel="self" type="application/rss+xml" />
     <description>Phylogenetic dating</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Luna L. Sanchez-Reyes, 2019</copyright><lastBuildDate>Sat, 19 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Luna L. Sanchez-Reyes</copyright><lastBuildDate>Tue, 19 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Phylogenetic dating</title>
@@ -15,19 +15,54 @@
     <item>
       <title>Datelife</title>
       <link>/project/datelife/</link>
-      <pubDate>Sat, 19 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
       <guid>/project/datelife/</guid>
-      <description>&lt;p&gt;Talk about:&lt;/p&gt;
+      <description>
 
-&lt;ul&gt;
-&lt;li&gt;The premises of datelife, why is it important.&lt;/li&gt;
-&lt;li&gt;The history of the datelife project. Link to Brian presentation in evolution 2010 available from youtube, mention first developers.&lt;/li&gt;
-&lt;li&gt;Link to my poster from evolution, or do a presentation about it.&lt;/li&gt;
-&lt;li&gt;Link to the biorxiv preprint&lt;/li&gt;
-&lt;li&gt;Talk about preliminary results from datelife_paper2&lt;/li&gt;
-&lt;/ul&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;Add Brian as a coauthor&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;
+&lt;br/&gt;
+Scientists estimate that there are as many as &lt;strong&gt;3 to 100 million living species&lt;/strong&gt; on Earth today&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:fn1&#34;&gt;&lt;a href=&#34;#fn:fn1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.
+A key aspect to understanding biodiversity and how it relates to humans is &lt;strong&gt;geological timing&lt;/strong&gt;.
+Time of origin in geologic time units is approximately known for at least 97 085 of living species&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:fn2&#34;&gt;&lt;a href=&#34;#fn:fn2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;. While this might seem like a lot, it only represents &lt;strong&gt;0.1 to 3.24% of the total biodiversity&lt;/strong&gt; in our planet.&lt;/p&gt;
+
+&lt;p&gt;Getting this information is hard: it requires time for training and studying, and costs a lot of money. It is also really &lt;strong&gt;fun!&lt;/strong&gt; But there are not many scientists in general out there, and within this already small number, there are not that many whom are particularly investing their energy in studying time of species origin.&lt;/p&gt;
+
+&lt;p&gt;It is also important that scientific data are available for everybody: for education and for all human communities, to whom this information is relevant in many ways.
+&lt;br/&gt;
+&lt;br/&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;a-project-is-born&#34;&gt;&lt;strong&gt;A project is born&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;From this necessity, a group of enthusiastic scientists&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:fn3&#34;&gt;&lt;a href=&#34;#fn:fn3&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; developed the first concept of the datelife project in a two day hackathon in 2012, that was sponsored by the phylotastic project, funded by the National Science Foundation (NSF).&lt;/p&gt;
+
+&lt;p&gt;The first version of datelife was presented at iEvoBio in 2012. Watch a recording of that presentation &lt;a href=&#34;https://www.youtube.com/watch?time_continue=1&amp;amp;v=xWmLrbUWtyM&amp;amp;feature=emb_logo&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The project was continued by &lt;a href=&#34;http://brianomeara.info/&#34; target=&#34;_blank&#34;&gt;Brian O&amp;rsquo;Meara&lt;/a&gt; at the University of Tennesse, Knoxville. He developed the &lt;a href=&#34;http://datelife.org/index.html&#34; target=&#34;_blank&#34;&gt;website&lt;/a&gt;, the &lt;a href=&#34;http://datelife.org/query/&#34; target=&#34;_blank&#34;&gt;R shiny application&lt;/a&gt;, and the &lt;a href=&#34;https://github.com/phylotastic/datelife&#34; target=&#34;_blank&#34;&gt;R package&lt;/a&gt; to perform the main functionalities of datelife. In August 2017, I joined the team.&lt;br /&gt;
+&lt;br/&gt;
+&lt;br/&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;what-does-datelife-do&#34;&gt;&lt;strong&gt;What does datelife do?&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Take a look at the first manuscript of datelife, available in &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/782094v1&#34; target=&#34;_blank&#34;&gt;bioRxiv.&lt;/a&gt;
+&lt;br/&gt;
+&lt;br/&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:fn1&#34;&gt;Numbers from &lt;a href=&#34;https://doi.org/10.1371/journal.pbio.1001127&#34; target=&#34;_blank&#34;&gt;Mora C., Tittensor D.P., Adl S., Simpson A.G., Worm B. 2011. How many species are there on earth and in the ocean? PLoS Biology. 9:1–8&lt;/a&gt; and &lt;a href=&#34;https://doi.org/10.1126/science.1191058&#34; target=&#34;_blank&#34;&gt;Mayr R.M. 2010. Tropical Arthropod Species, More or Less? Science. 329:41–42&lt;/a&gt;.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:fn1&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:fn2&#34;&gt;&lt;a href=&#34;https://doi.org/10.1093/molbev/msx116&#34; target=&#34;_blank&#34;&gt;Kumar S., Stecher G., Suleski M., Hedges S.B. 2017. TimeTree: A Resource for Timelines, Timetrees, and Divergence Times. Molecular biology and evolution. 34:1812–1819.&lt;/a&gt;
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:fn2&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:fn3&#34;&gt;The original datelife team was composed by Brian O&amp;rsquo;Meara, Jonathan Eastman, Tracy Heath, April Wright, Klaus Schliep, Scott Chamberlain, Peter Midford, Luke Harmon, Joseph Brown, Matt Pennell, and Mike Alfaro.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:fn3&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
 </description>
     </item>
     

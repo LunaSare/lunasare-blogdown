@@ -5,12 +5,52 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Luna L. Sanchez-Reyes, 2019</copyright><lastBuildDate>Sat, 19 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Luna L. Sanchez-Reyes</copyright><lastBuildDate>Tue, 19 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>Macroevolution</title>
+      <link>/tags/macroevolution/</link>
+      <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/macroevolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Science</title>
+      <link>/tags/open-science/</link>
+      <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/open-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phylogenetic dating</title>
+      <link>/tags/phylogenetic-dating/</link>
+      <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/phylogenetic-dating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Birth-death</title>
+      <link>/tags/birth-death/</link>
+      <pubDate>Sat, 19 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/birth-death/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diversification processes</title>
+      <link>/tags/diversification-processes/</link>
+      <pubDate>Sat, 19 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/diversification-processes/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Education</title>
@@ -21,26 +61,18 @@
     </item>
     
     <item>
-      <title>Macroevolution</title>
-      <link>/tags/macroevolution/</link>
+      <title>Extinction</title>
+      <link>/tags/extinction/</link>
       <pubDate>Sat, 19 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/macroevolution/</guid>
+      <guid>/tags/extinction/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Open Science</title>
-      <link>/tags/open-science/</link>
+      <title>Model testing</title>
+      <link>/tags/model-testing/</link>
       <pubDate>Sat, 19 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/open-science/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Phylogenetic dating</title>
-      <link>/tags/phylogenetic-dating/</link>
-      <pubDate>Sat, 19 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/phylogenetic-dating/</guid>
+      <guid>/tags/model-testing/</guid>
       <description></description>
     </item>
     
@@ -53,18 +85,18 @@
     </item>
     
     <item>
-      <title>R package</title>
-      <link>/tags/r-package/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/r-package/</guid>
+      <title>Speciation</title>
+      <link>/tags/speciation/</link>
+      <pubDate>Sat, 19 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/speciation/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Diversification processes</title>
-      <link>/tags/diversification-processes/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/diversification-processes/</guid>
+      <title>R package</title>
+      <link>/tags/r-package/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/r-package/</guid>
       <description></description>
     </item>
     
@@ -85,22 +117,6 @@
     </item>
     
     <item>
-      <title>Model testing</title>
-      <link>/tags/model-testing/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/model-testing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Species diversification</title>
-      <link>/tags/species-diversification/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/species-diversification/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Anchored Hybrid Enrichment</title>
       <link>/tags/anchored-hybrid-enrichment/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
@@ -113,22 +129,6 @@
       <link>/tags/genomics/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>/tags/genomics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Birth-death</title>
-      <link>/tags/birth-death/</link>
-      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/birth-death/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Demo</title>
-      <link>/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/demo/</guid>
       <description></description>
     </item>
     

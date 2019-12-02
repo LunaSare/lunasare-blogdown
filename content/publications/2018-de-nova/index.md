@@ -37,9 +37,12 @@ publishDate: "2018-09-01T00:00:00Z"
 
 tags:
 - Phylogenetic dating
-- Species diversification
+- Speciation
+- Extinction
 - Model testing
 - Flowering plants
+- Diversification processes
+- Birth-death
 
 # words in title cannot be formatted as italics by using markdown; you can do it by changing some specs, see https://github.com/gcushen/hugo-academic/issues/280 for problems related to changing those specs.
 

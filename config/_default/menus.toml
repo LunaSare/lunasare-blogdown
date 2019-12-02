@@ -9,10 +9,10 @@
   url = "#2-projects-header"
   weight = 20
   
-[[main]]
-  name = "Research"
-  url = "/research"
-  weight = 30
+#[[main]]
+#  name = "Research"
+#  url = "/research"
+#  weight = 30
 
 [[main]]
   name = "Publications"
@@ -21,7 +21,7 @@
 
 #[[main]]
 #  name = "Tutorials"
-#  url = "/courses"
+#  url = "/courses" #use this folder first for examples already built-in
 #  weight = 50
 
 #[[main]]
@@ -32,6 +32,11 @@
 [[main]]
   name = "About"
   url = "/about_and_contact"
+  weight = 50
+
+[[main]]
+  name = "Contact"
+  url = "/about_and_contact/#5-contact-header"
   weight = 50
 
 # Link to a PDF of your resume/CV from the menu.

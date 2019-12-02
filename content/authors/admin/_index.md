@@ -12,9 +12,9 @@ education:
     year: 2010
 email: ""
 interests:
-- Effects of statistical uncertainty
-- Coding with python
-- Open Science in Education
+- Effects of statistical uncertainty on evolutionary inferences
+- Coding with R and Python
+- Open Science in Education and Research
 
 name: Luna L. Sánchez Reyes
 organizations:
@@ -28,9 +28,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=rpXUk04AAAAJ&hl=es&oi=ao
-- icon: dove
-  icon_pack: fas
-  link: https://www.inaturalist.org/observations?place_id=any&user_id=lunasare&verifiable=any
+#- icon: dove
+#  icon_pack: fas
+#  link: https://www.inaturalist.org/observations?place_id=any&user_id=lunasare&verifiable=any
 - icon: envelope
   icon_pack: fas
   link: '#contact'

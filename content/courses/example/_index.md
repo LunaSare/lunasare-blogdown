@@ -5,7 +5,7 @@ lastmod: "2019-12-06T00:00:00Z"
 linktitle: Tools for R package development
 menu:
   example:
-    name: 
+    name: Some example
     weight: 2
 summary: Some tips and tricks to develop your own R packages.
 title: Tools for R package development

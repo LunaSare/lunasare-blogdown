@@ -1,18 +1,17 @@
 ---
-date: "2018-09-09T00:00:00Z"
+date: "2019-11-01T00:00:00Z"
 draft: false
-lastmod: "2018-09-09T00:00:00Z"
-linktitle: An Example Course
+lastmod: "2019-12-06T00:00:00Z"
+linktitle: Tools for R package development
 menu:
   example:
-    name: Overview
-    weight: 1
-summary: Learn how to use Academic's docs layout for publishing online courses, software
-  documentation, and tutorials.
-title: Overview
+    name: 
+    weight: 2
+summary: Some tips and tricks to develop your own R packages.
+title: Tools for R package development
 toc: true
 type: docs
-weight: 1
+weight: 2
 ---
 
 ## Flexibility

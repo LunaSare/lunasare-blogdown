@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools for R package development | Luna L. Sánchez Reyes</title>
+    <link>/courses/virtual_machines/</link>
+      <atom:link href="/courses/virtual_machines/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tools for R package development</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Luna L. Sanchez-Reyes</copyright><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Tools for R package development</title>
+      <link>/courses/virtual_machines/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/courses/virtual_machines/example1/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/courses/virtual_machines/example1/</guid>
+      <description>&lt;p&gt;Follow instructions here: &lt;a href=&#34;https://towardsdatascience.com/how-to-install-a-free-windows-virtual-machine-on-your-mac-bf7cbc05888e&#34; target=&#34;_blank&#34;&gt;https://towardsdatascience.com/how-to-install-a-free-windows-virtual-machine-on-your-mac-bf7cbc05888e&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -4,7 +4,7 @@ draft: false
 linktitle: Tips 3-4
 menu:
   example:
-    parent: Example Topic
+    parent: Release
     weight: 2
 title: Example Page 2
 toc: true

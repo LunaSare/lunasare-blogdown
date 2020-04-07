@@ -5,7 +5,7 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Luna L. Sanchez-Reyes</copyright><lastBuildDate>Tue, 19 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Luna L. Sanchez-Reyes</copyright><lastBuildDate>Tue, 19 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Projects</title>
@@ -35,11 +35,11 @@ Time of origin in geologic time units is approximately known for at least 97 085
 
 &lt;h2 id=&#34;a-project-is-born&#34;&gt;&lt;strong&gt;A project is born&lt;/strong&gt;&lt;/h2&gt;
 
-&lt;p&gt;From this necessity, a group of enthusiastic scientists&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:fn3&#34;&gt;&lt;a href=&#34;#fn:fn3&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; developed the first concept of the datelife project in a two day hackathon in 2012, that was sponsored by the phylotastic project, funded by the National Science Foundation (NSF).&lt;/p&gt;
+&lt;p&gt;From this necessity, a group of enthusiastic scientists&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:fn3&#34;&gt;&lt;a href=&#34;#fn:fn3&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; developed the first platform of the datelife project in a two day hackathon in 2012, that was sponsored by the phylotastic project, funded by the National Science Foundation (NSF).&lt;/p&gt;
 
 &lt;p&gt;The first version of datelife was presented at iEvoBio in 2012. Watch a recording of that presentation &lt;a href=&#34;https://www.youtube.com/watch?time_continue=1&amp;amp;v=xWmLrbUWtyM&amp;amp;feature=emb_logo&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;The project was continued by &lt;a href=&#34;http://brianomeara.info/&#34; target=&#34;_blank&#34;&gt;Brian O&amp;rsquo;Meara&lt;/a&gt; at the University of Tennesse, Knoxville. He developed the &lt;a href=&#34;http://datelife.org/index.html&#34; target=&#34;_blank&#34;&gt;website&lt;/a&gt;, the &lt;a href=&#34;http://datelife.org/query/&#34; target=&#34;_blank&#34;&gt;R shiny application&lt;/a&gt;, and the &lt;a href=&#34;https://github.com/phylotastic/datelife&#34; target=&#34;_blank&#34;&gt;R package&lt;/a&gt; to perform the main functionalities of datelife. In August 2017, I joined the team.&lt;br /&gt;
+&lt;p&gt;The project was continued by &lt;a href=&#34;http://brianomeara.info/&#34; target=&#34;_blank&#34;&gt;Brian O&amp;rsquo;Meara&lt;/a&gt; at the University of Tennesse, Knoxville. He developed the &lt;a href=&#34;http://datelife.org/index.html&#34; target=&#34;_blank&#34;&gt;website&lt;/a&gt;, the &lt;a href=&#34;http://datelife.org/query/&#34; target=&#34;_blank&#34;&gt;R shiny application&lt;/a&gt;, and the &lt;a href=&#34;https://github.com/phylotastic/datelife&#34; target=&#34;_blank&#34;&gt;R package&lt;/a&gt; to perform the main functionalities of datelife. In August 2017, I joined the team to finish the R package.
 &lt;br/&gt;
 &lt;br/&gt;&lt;/p&gt;
 
@@ -59,7 +59,7 @@ Time of origin in geologic time units is approximately known for at least 97 085
  &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:fn1&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li id=&#34;fn:fn2&#34;&gt;&lt;a href=&#34;https://doi.org/10.1093/molbev/msx116&#34; target=&#34;_blank&#34;&gt;Kumar S., Stecher G., Suleski M., Hedges S.B. 2017. TimeTree: A Resource for Timelines, Timetrees, and Divergence Times. Molecular biology and evolution. 34:1812–1819.&lt;/a&gt;
  &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:fn2&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:fn3&#34;&gt;The original datelife team was composed by Brian O&amp;rsquo;Meara, Jonathan Eastman, Tracy Heath, April Wright, Klaus Schliep, Scott Chamberlain, Peter Midford, Luke Harmon, Joseph Brown, Matt Pennell, and Mike Alfaro.
+&lt;li id=&#34;fn:fn3&#34;&gt;The first datelife team: Brian O&amp;rsquo;Meara, Jonathan Eastman, Tracy Heath, April Wright, Klaus Schliep, Scott Chamberlain, Peter Midford, Luke Harmon, Joseph Brown, Matt Pennell, and Mike Alfaro.
  &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:fn3&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Courses | Luna L. Sánchez Reyes</title>
+    <title>Luna L. Sánchez Reyes</title>
     <link>/courses/</link>
       <atom:link href="/courses/index.xml" rel="self" type="application/rss+xml" />
-    <description>Courses</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Luna L. Sanchez-Reyes</copyright>
+    <description>Luna L. Sánchez Reyes</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Luna L. Sanchez-Reyes</copyright>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Courses</title>
+      <title>Luna L. Sánchez Reyes</title>
       <link>/courses/</link>
     </image>
     

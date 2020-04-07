@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Luna L. Sánchez Reyes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Luna L. Sanchez-Reyes</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Luna L. Sanchez-Reyes</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Luna L. Sánchez Reyes</title>
@@ -13,37 +13,64 @@
     </image>
     
     <item>
-      <title>Example Page 1</title>
+      <title></title>
       <link>/courses/example/example1/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
       <guid>/courses/example/example1/</guid>
       <description>
 
-&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+&lt;p&gt;In this tutorial, I&amp;rsquo;ll share ways to answer questions upon running &lt;code&gt;devtools::release()&lt;/code&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+&lt;p&gt;Most of them are pretty straight forward. Some required additional google search foo&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;h2 id=&#34;have-you-checked-for-spelling-errors-with-spell-check&#34;&gt;Have you checked for spelling errors (with &lt;code&gt;spell_check()&lt;/code&gt;)?&lt;/h2&gt;
 
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;h2 id=&#34;have-you-run-r-cmd-check-locally&#34;&gt;Have you run &lt;code&gt;R CMD check&lt;/code&gt; locally?&lt;/h2&gt;
 
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;h2 id=&#34;were-devtool-s-checks-successful&#34;&gt;Were devtool&amp;rsquo;s checks successful?&lt;/h2&gt;
 
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;h2 id=&#34;have-you-checked-on-r-hub-with-check-rhub&#34;&gt;Have you checked on R-hub (with &lt;code&gt;check_rhub()&lt;/code&gt;)?&lt;/h2&gt;
 
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;have-you-checked-on-win-builder-with-check-win-devel&#34;&gt;Have you checked on win-builder (with &lt;code&gt;check_win_devel()&lt;/code&gt;)?&lt;/h2&gt;
 
-&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+&lt;h2 id=&#34;have-you-updated-news-md-file&#34;&gt;Have you updated &lt;code&gt;NEWS.md&lt;/code&gt; file?&lt;/h2&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;h2 id=&#34;have-you-updated-description&#34;&gt;Have you updated &lt;code&gt;DESCRIPTION&lt;/code&gt;?&lt;/h2&gt;
 
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;h2 id=&#34;have-you-updated-cran-comments-md&#34;&gt;Have you updated &lt;code&gt;cran-comments.md?&lt;/code&gt;&lt;/h2&gt;
 
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;h2 id=&#34;have-you-updated-website-in-docs&#34;&gt;Have you updated website in &lt;code&gt;docs/&lt;/code&gt;?&lt;/h2&gt;
 
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;install.packages(&amp;quot;pkgdown&amp;quot;)
+pkgdown::build_site()
+&lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;were-git-checks-successful&#34;&gt;Were Git checks successful?&lt;/h2&gt;
+
+&lt;h3 id=&#34;checking-uncommitted-files&#34;&gt;Checking uncommitted files&amp;hellip;&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;WARNING: All files should be tracked and committed before release. Please add and commit.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Make sure you have commited everything, i.e., that you are up to date with master.&lt;/p&gt;
+
+&lt;h3 id=&#34;checking-synchronisation-with-remote-branch&#34;&gt;Checking synchronisation with remote branch&amp;hellip;&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;ERROR: Error in &#39;git2r_remote_fetch&#39;: unsupported URL protocol
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/ropensci/git2r/issues/300&#34; target=&#34;_blank&#34;&gt;https://github.com/ropensci/git2r/issues/300&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;is-your-email-address-maintainers-email-whatever-com&#34;&gt;Is your email address maintainers-email@whatever.com?&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/courses/virtual_machines/example1/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/courses/virtual_machines/example1/</guid>
+      <description>&lt;p&gt;Follow instructions here: &lt;a href=&#34;https://towardsdatascience.com/how-to-install-a-free-windows-virtual-machine-on-your-mac-bf7cbc05888e&#34; target=&#34;_blank&#34;&gt;https://towardsdatascience.com/how-to-install-a-free-windows-virtual-machine-on-your-mac-bf7cbc05888e&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -128,11 +155,11 @@ Time of origin in geologic time units is approximately known for at least 97 085
 
 &lt;h2 id=&#34;a-project-is-born&#34;&gt;&lt;strong&gt;A project is born&lt;/strong&gt;&lt;/h2&gt;
 
-&lt;p&gt;From this necessity, a group of enthusiastic scientists&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:fn3&#34;&gt;&lt;a href=&#34;#fn:fn3&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; developed the first concept of the datelife project in a two day hackathon in 2012, that was sponsored by the phylotastic project, funded by the National Science Foundation (NSF).&lt;/p&gt;
+&lt;p&gt;From this necessity, a group of enthusiastic scientists&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:fn3&#34;&gt;&lt;a href=&#34;#fn:fn3&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; developed the first platform of the datelife project in a two day hackathon in 2012, that was sponsored by the phylotastic project, funded by the National Science Foundation (NSF).&lt;/p&gt;
 
 &lt;p&gt;The first version of datelife was presented at iEvoBio in 2012. Watch a recording of that presentation &lt;a href=&#34;https://www.youtube.com/watch?time_continue=1&amp;amp;v=xWmLrbUWtyM&amp;amp;feature=emb_logo&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;The project was continued by &lt;a href=&#34;http://brianomeara.info/&#34; target=&#34;_blank&#34;&gt;Brian O&amp;rsquo;Meara&lt;/a&gt; at the University of Tennesse, Knoxville. He developed the &lt;a href=&#34;http://datelife.org/index.html&#34; target=&#34;_blank&#34;&gt;website&lt;/a&gt;, the &lt;a href=&#34;http://datelife.org/query/&#34; target=&#34;_blank&#34;&gt;R shiny application&lt;/a&gt;, and the &lt;a href=&#34;https://github.com/phylotastic/datelife&#34; target=&#34;_blank&#34;&gt;R package&lt;/a&gt; to perform the main functionalities of datelife. In August 2017, I joined the team.&lt;br /&gt;
+&lt;p&gt;The project was continued by &lt;a href=&#34;http://brianomeara.info/&#34; target=&#34;_blank&#34;&gt;Brian O&amp;rsquo;Meara&lt;/a&gt; at the University of Tennesse, Knoxville. He developed the &lt;a href=&#34;http://datelife.org/index.html&#34; target=&#34;_blank&#34;&gt;website&lt;/a&gt;, the &lt;a href=&#34;http://datelife.org/query/&#34; target=&#34;_blank&#34;&gt;R shiny application&lt;/a&gt;, and the &lt;a href=&#34;https://github.com/phylotastic/datelife&#34; target=&#34;_blank&#34;&gt;R package&lt;/a&gt; to perform the main functionalities of datelife. In August 2017, I joined the team to finish the R package.
 &lt;br/&gt;
 &lt;br/&gt;&lt;/p&gt;
 
@@ -152,7 +179,7 @@ Time of origin in geologic time units is approximately known for at least 97 085
  &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:fn1&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li id=&#34;fn:fn2&#34;&gt;&lt;a href=&#34;https://doi.org/10.1093/molbev/msx116&#34; target=&#34;_blank&#34;&gt;Kumar S., Stecher G., Suleski M., Hedges S.B. 2017. TimeTree: A Resource for Timelines, Timetrees, and Divergence Times. Molecular biology and evolution. 34:1812–1819.&lt;/a&gt;
  &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:fn2&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:fn3&#34;&gt;The original datelife team was composed by Brian O&amp;rsquo;Meara, Jonathan Eastman, Tracy Heath, April Wright, Klaus Schliep, Scott Chamberlain, Peter Midford, Luke Harmon, Joseph Brown, Matt Pennell, and Mike Alfaro.
+&lt;li id=&#34;fn:fn3&#34;&gt;The first datelife team: Brian O&amp;rsquo;Meara, Jonathan Eastman, Tracy Heath, April Wright, Klaus Schliep, Scott Chamberlain, Peter Midford, Luke Harmon, Joseph Brown, Matt Pennell, and Mike Alfaro.
  &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:fn3&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;

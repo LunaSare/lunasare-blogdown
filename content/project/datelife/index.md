@@ -44,11 +44,11 @@ It is also important that scientific data are available for everybody: for educa
 <br/>
 ## **A project is born**
 
-From this necessity, a group of enthusiastic scientists[^fn3] developed the first concept of the datelife project in a two day hackathon in 2012, that was sponsored by the phylotastic project, funded by the National Science Foundation (NSF).
+From this necessity, a group of enthusiastic scientists[^fn3] developed the first platform of the datelife project in a two day hackathon in 2012, that was sponsored by the phylotastic project, funded by the National Science Foundation (NSF).
 
 The first version of datelife was presented at iEvoBio in 2012. Watch a recording of that presentation [here](https://www.youtube.com/watch?time_continue=1&v=xWmLrbUWtyM&feature=emb_logo). 
 
-The project was continued by [Brian O'Meara](http://brianomeara.info/) at the University of Tennesse, Knoxville. He developed the [website](http://datelife.org/index.html), the [R shiny application](http://datelife.org/query/), and the [R package](https://github.com/phylotastic/datelife) to perform the main functionalities of datelife. In August 2017, I joined the team.  
+The project was continued by [Brian O'Meara](http://brianomeara.info/) at the University of Tennesse, Knoxville. He developed the [website](http://datelife.org/index.html), the [R shiny application](http://datelife.org/query/), and the [R package](https://github.com/phylotastic/datelife) to perform the main functionalities of datelife. In August 2017, I joined the team to finish the R package.
 <br/>
 <br/>
 ## **What does datelife do?**
@@ -63,4 +63,4 @@ Take a look at the first manuscript of datelife, available in [bioRxiv.](https:/
 
 [^fn2]: [Kumar S., Stecher G., Suleski M., Hedges S.B. 2017. TimeTree: A Resource for Timelines, Timetrees, and Divergence Times. Molecular biology and evolution. 34:1812–1819.](https://doi.org/10.1093/molbev/msx116)
 
-[^fn3]: The original datelife team was composed by Brian O'Meara, Jonathan Eastman, Tracy Heath, April Wright, Klaus Schliep, Scott Chamberlain, Peter Midford, Luke Harmon, Joseph Brown, Matt Pennell, and Mike Alfaro.
+[^fn3]: The first datelife team: Brian O'Meara, Jonathan Eastman, Tracy Heath, April Wright, Klaus Schliep, Scott Chamberlain, Peter Midford, Luke Harmon, Joseph Brown, Matt Pennell, and Mike Alfaro.

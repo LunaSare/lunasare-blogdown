@@ -5,7 +5,7 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Luna L. Sanchez-Reyes</copyright><lastBuildDate>Tue, 19 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Luna L. Sanchez-Reyes</copyright><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tags</title>
@@ -13,18 +13,34 @@
     </image>
     
     <item>
-      <title>Macroevolution</title>
-      <link>/tags/macroevolution/</link>
-      <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/macroevolution/</guid>
+      <title>Open Science</title>
+      <link>/tags/open-science/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/open-science/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Open Science</title>
-      <link>/tags/open-science/</link>
+      <title>Reproducibility</title>
+      <link>/tags/reproducibility/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/reproducibility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>use R</title>
+      <link>/tags/use-r/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/use-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Macroevolution</title>
+      <link>/tags/macroevolution/</link>
       <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/open-science/</guid>
+      <guid>/tags/macroevolution/</guid>
       <description></description>
     </item>
     
@@ -129,14 +145,6 @@
       <link>/tags/genomics/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>/tags/genomics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Academic</title>
-      <link>/tags/academic/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/academic/</guid>
       <description></description>
     </item>
     

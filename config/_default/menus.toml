@@ -8,26 +8,17 @@
   name = "Projects"
   url = "#2-projects-header"
   weight = 20
-  
-[[main]]
-  name = "Tools"
-  url = "/courses"
-  weight = 30
-  
-#[[main]]
-#  name = "Research"
-#  url = "/research"
-#  weight = 30
+
 
 [[main]]
   name = "Publications"
-  url = "/publications"
-  weight = 40
+  url = "#publications"
+  weight = 30
 
-#[[main]]
-#  name = "Tutorials"
-#  url = "/courses" #use this folder first for examples already built-in
-#  weight = 50
+[[main]]
+  name = "Posts"
+  url = "/all_posts"
+  weight = 40
 
 [[main]]
   name = "About"
@@ -45,5 +36,3 @@
    name = "CV"
    url = "files/cv.pdf"
    weight = 70
-   
-   

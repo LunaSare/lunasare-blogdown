@@ -66,6 +66,4 @@ My [research](https://profiles.impactstory.org/u/0000-0001-7668-2528) focuses on
 
 <!--While at OHSU, I became an avid user of the statistical programming language R, both in the lab as a Principal Investigator and in the classroom as a professor. I developed a passion for programming and education, and during my tenure at OHSU I developed and taught multiple graduate-level [data science courses](/categories/course/) and [workshops](/categories/workshop/). I also trained the [Office of Research Impact at the Oregon Clinical & Translational Research Institute](https://www.ohsu.edu/xd/research/centers-institutes/octri/) to use R, and consulted with the University of Oregon College of Education on the development of a [graduate data science specialization track](https://education.uoregon.edu/). I received an [Excellence in Education award](https://www.ohsu.edu/school-of-medicine/honors-and-awards-ceremony-2018-school-medicine) from OHSU in 2018.-->
 
-You can follow my current work in software development to make available scientific information on time of origin of species on [GitHub](https://github.com/LunaSare). In my free time, I enjoy dancing, putting color on things, drawing designs, and spending time with family and friends!
-
-
+You can follow my current work in software development to make available scientific information on time of origin of species on [GitHub](https://github.com/LunaSare). In my free time, I enjoy dancing, putting color on things, drawing designs, and spending time with family and friends -- virtually!

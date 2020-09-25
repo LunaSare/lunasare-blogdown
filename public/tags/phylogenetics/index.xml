@@ -2,46 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Phylogenetics | Luna L. Sánchez Reyes</title>
-    <link>/tags/phylogenetics/</link>
-      <atom:link href="/tags/phylogenetics/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lunasare.com/tags/phylogenetics/</link>
+      <atom:link href="https://lunasare.com/tags/phylogenetics/index.xml" rel="self" type="application/rss+xml" />
     <description>Phylogenetics</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Luna L. Sanchez-Reyes</copyright><lastBuildDate>Sat, 19 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://lunasare.com/img/icon-192.png</url>
       <title>Phylogenetics</title>
-      <link>/tags/phylogenetics/</link>
+      <link>https://lunasare.com/tags/phylogenetics/</link>
     </image>
     
     <item>
       <title>iNaturalist phylogenies</title>
-      <link>/project/inaturalist-datelife/</link>
+      <link>https://lunasare.com/project/inaturalist-datelife/</link>
       <pubDate>Sat, 19 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/project/inaturalist-datelife/</guid>
+      <guid>https://lunasare.com/project/inaturalist-datelife/</guid>
       <description>&lt;p&gt;Talk about:&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;In what context was this developed.&lt;/li&gt;
 &lt;li&gt;Link to Phylotasticed&lt;/li&gt;
 &lt;li&gt;improvements, future stuff&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;Add Lauren Chan profile&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Phylotastic</title>
-      <link>/project/phylotastic/</link>
+      <link>https://lunasare.com/project/phylotastic/</link>
       <pubDate>Sat, 19 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/project/phylotastic/</guid>
+      <guid>https://lunasare.com/project/phylotastic/</guid>
       <description>&lt;p&gt;Talk about:&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;The premises of phylotastic, why I think it is important.&lt;/li&gt;
 &lt;li&gt;My participation in the project, rphylotastic&lt;/li&gt;
 &lt;li&gt;Link to the biorxiv preprint and other papers&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;Add all other authors?&lt;/p&gt;
 </description>
     </item>

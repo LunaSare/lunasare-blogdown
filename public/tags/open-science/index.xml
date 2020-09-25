@@ -2,228 +2,192 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open Science | Luna L. Sánchez Reyes</title>
-    <link>/tags/open-science/</link>
-      <atom:link href="/tags/open-science/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lunasare.com/tags/open-science/</link>
+      <atom:link href="https://lunasare.com/tags/open-science/index.xml" rel="self" type="application/rss+xml" />
     <description>Open Science</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Luna L. Sanchez-Reyes</copyright><lastBuildDate>Wed, 15 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Luna L. Sanchez-Reyes</copyright><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://lunasare.com/img/icon-192.png</url>
       <title>Open Science</title>
-      <link>/tags/open-science/</link>
+      <link>https://lunasare.com/tags/open-science/</link>
     </image>
     
     <item>
+      <title>Physcraper: A Python package for continual update of evolutionary estimates using the Open Tree of Life</title>
+      <link>https://lunasare.com/publications/2020-sanchez-reyes/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://lunasare.com/publications/2020-sanchez-reyes/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Open Science and Reproducibility</title>
-      <link>/post/reproducibility-intro/</link>
+      <link>https://lunasare.com/post-dev/reproducibility-advanced/</link>
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/post/reproducibility-intro/</guid>
-      <description>&lt;!-- Following css was taken from https://tcgriffith.github.io/xaringan_gh/ --&gt;
-
-&lt;!--## CSS styles--&gt;
-
-&lt;!-- &lt;style&gt;
-.resp-container {
-    position: relative;
-    /* overflow: hidden; #comment out this line to allow a larger embed*/
-    padding-top: 56.25%;
-}
-
-.testiframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    border: 0;
-}
-&lt;/style&gt; --&gt;
-
-&lt;!--## html iframe to embed the slide.--&gt;
-
-&lt;!-- &lt;div class=&#34;resp-container&#34;&gt;
-    &lt;iframe class=&#34;testiframe&#34; src=&#34;https://lunasare.github.io/slides/reproducibility-2020-04-15.html&#34;&gt;
-      A blogdown tutorial.
-    &lt;/iframe&gt;
-&lt;/div&gt; --&gt;
+      <guid>https://lunasare.com/post-dev/reproducibility-advanced/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open Science and Reproducibility</title>
+      <link>https://lunasare.com/post-dev/reproducibility-intro/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://lunasare.com/post-dev/reproducibility-intro/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open Science and Reproducibility</title>
+      <link>https://lunasare.com/post/reproducibility-intro/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://lunasare.com/post/reproducibility-intro/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     
     <item>
       <title>Create a website using blogdown!</title>
-      <link>/post/tutorial-blogdown/</link>
+      <link>https://lunasare.com/post/tutorial-blogdown/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/post/tutorial-blogdown/</guid>
-      <description>&lt;p&gt;This tutorial is fully inspired by &lt;a href=&#34;https://www.dsquintana.com/&#34; target=&#34;_blank&#34;&gt;Dan Quintana&amp;rsquo;s&lt;/a&gt; twitter &lt;a href=&#34;https://twitter.com/dsquintana/status/1139846569623281664&#34; target=&#34;_blank&#34;&gt;post&lt;/a&gt;, and uses some of his material, all with permission from the author. Many thanks, Dan!!&lt;/p&gt;
-
+      <guid>https://lunasare.com/post/tutorial-blogdown/</guid>
+      <description>&lt;p&gt;This tutorial is fully inspired by &lt;a href=&#34;https://www.dsquintana.com/&#34;&gt;Dan Quintana&amp;rsquo;s&lt;/a&gt; twitter &lt;a href=&#34;https://twitter.com/dsquintana/status/1139846569623281664&#34;&gt;post&lt;/a&gt;, and uses some of his material, all with permission from the author. Many thanks, Dan!!&lt;/p&gt;
 &lt;p&gt;I developed this presentation/tutorial as part of a lecture on science reproducibility and for a seminar on how to leverage your R knowledge to increase your academic presence online.
-The presentation was generated with R, using &lt;a href=&#34;https://yihui.org/en/about/&#34; target=&#34;_blank&#34;&gt;Yihue Xie&amp;rsquo;s&lt;/a&gt; &lt;a href=&#34;https://github.com/yihui/xaringan&#34; target=&#34;_blank&#34;&gt;xaringan&lt;/a&gt; package.&lt;/p&gt;
-
+The presentation was generated with R, using &lt;a href=&#34;https://yihui.org/en/about/&#34;&gt;Yihue Xie&amp;rsquo;s&lt;/a&gt; &lt;a href=&#34;https://github.com/yihui/xaringan&#34;&gt;xaringan&lt;/a&gt; package.&lt;/p&gt;
 &lt;p&gt;There are many fun things about making a presentation with the &lt;code&gt;xaringan&lt;/code&gt; package, but one of my favorites is that you can add links and widgets as if it were a webpage. So, when your are going through the tutorial, try clicking things around. You might discover something useful further down the tutorial!&lt;/p&gt;
-
-&lt;!-- Following css was taken from https://tcgriffith.github.io/xaringan_gh/ --&gt;
-
-&lt;!--## CSS styles--&gt;
-
-&lt;!-- &lt;style&gt;
-.resp-container {
-    position: relative;
-    /* overflow: hidden; #comment out this line to allow a larger embed*/
-    padding-top: 56.25%;
-}
-
-.testiframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    border: 0;
-}
-&lt;/style&gt; --&gt;
-
-&lt;!--## html iframe to embed the slide.--&gt;
-
-&lt;!-- &lt;div class=&#34;resp-container&#34;&gt;
-    &lt;iframe class=&#34;testiframe&#34; src=&#34;https://lunasare.github.io/slides/tutorial-blogdown-2020-03-24.html&#34;&gt;
-      A blogdown tutorial.
-    &lt;/iframe&gt;
-&lt;/div&gt; --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tips for writing coding tutorials (hacks for hacking)</title>
+      <link>https://lunasare.com/post-dev/tutorial-writing-tips/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://lunasare.com/post-dev/tutorial-writing-tips/</guid>
+      <description>&lt;p&gt;A bunch of good tips on how to code for coding tutorials
+From this rstudio supprt page:
+&lt;a href=&#34;https://support.rstudio.com/hc/en-us/articles/360018181633-Including-verbatim-R-code-chunks-inside-R-Markdown&#34;&gt;https://support.rstudio.com/hc/en-us/articles/360018181633-Including-verbatim-R-code-chunks-inside-R-Markdown&lt;/a&gt;
+I found awesome Jenny Bryan&amp;rsquo;s compendium of tricks to embed full code as verbatim (not interpreted or formatted) on your .Rmd or .md tutorial, aka, showing the full extent of backticks: &lt;a href=&#34;https://rmarkdown.rstudio.com/articles_verbatim.html&#34;&gt;https://rmarkdown.rstudio.com/articles_verbatim.html&lt;/a&gt;
+From the gist of that same post: &lt;a href=&#34;https://stackoverflow.com/questions/20409172/how-to-display-verbatim-inline-r-code-with-backticks-using-rmarkdown&#34;&gt;https://stackoverflow.com/questions/20409172/how-to-display-verbatim-inline-r-code-with-backticks-using-rmarkdown&lt;/a&gt;
+Yihui&amp;rsquo;s tips: &lt;a href=&#34;https://yihui.org/en/2017/11/knitr-verbatim-code-chunk/&#34;&gt;https://yihui.org/en/2017/11/knitr-verbatim-code-chunk/&lt;/a&gt;
+What&amp;rsquo;s a gist?&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     
     <item>
       <title>Datelife</title>
-      <link>/project/datelife/</link>
+      <link>https://lunasare.com/project/datelife/</link>
       <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/project/datelife/</guid>
-      <description>
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;br/&gt;
-&lt;br/&gt;
-Scientists estimate that there are as many as &lt;strong&gt;3 to 100 million living species&lt;/strong&gt; on Earth today&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:fn1&#34;&gt;&lt;a href=&#34;#fn:fn1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.
-A key aspect to understanding biodiversity and how it relates to humans is &lt;strong&gt;geological timing&lt;/strong&gt;.
-Time of origin in geologic time units is approximately known for at least 97 085 of living species&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:fn2&#34;&gt;&lt;a href=&#34;#fn:fn2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;. While this might seem like a lot, it only represents &lt;strong&gt;0.1 to 3.24% of the total biodiversity&lt;/strong&gt; in our planet.&lt;/p&gt;
-
+      <guid>https://lunasare.com/project/datelife/</guid>
+      <description>&lt;hr&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Getting this information is hard: it requires time for training and studying, and costs a lot of money. It is also really &lt;strong&gt;fun!&lt;/strong&gt; But there are not many scientists in general out there, and within this already small number, there are not that many whom are particularly investing their energy in studying time of species origin.&lt;/p&gt;
-
 &lt;p&gt;It is also important that scientific data are available for everybody: for education and for all human communities, to whom this information is relevant in many ways.
-&lt;br/&gt;
-&lt;br/&gt;&lt;/p&gt;
-
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;h2 id=&#34;a-project-is-born&#34;&gt;&lt;strong&gt;A project is born&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;From this necessity, a group of enthusiastic scientists&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:fn3&#34;&gt;&lt;a href=&#34;#fn:fn3&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; developed the first platform of the datelife project in a two day hackathon in 2012, that was sponsored by the phylotastic project, funded by the National Science Foundation (NSF).&lt;/p&gt;
-
-&lt;p&gt;The first version of datelife was presented at iEvoBio in 2012. Watch a recording of that presentation &lt;a href=&#34;https://www.youtube.com/watch?time_continue=1&amp;amp;v=xWmLrbUWtyM&amp;amp;feature=emb_logo&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The project was continued by &lt;a href=&#34;http://brianomeara.info/&#34; target=&#34;_blank&#34;&gt;Brian O&amp;rsquo;Meara&lt;/a&gt; at the University of Tennesse, Knoxville. He developed the &lt;a href=&#34;http://datelife.org/index.html&#34; target=&#34;_blank&#34;&gt;website&lt;/a&gt;, the &lt;a href=&#34;http://datelife.org/query/&#34; target=&#34;_blank&#34;&gt;R shiny application&lt;/a&gt;, and the &lt;a href=&#34;https://github.com/phylotastic/datelife&#34; target=&#34;_blank&#34;&gt;R package&lt;/a&gt; to perform the main functionalities of datelife. In August 2017, I joined the team to finish the R package.
-&lt;br/&gt;
-&lt;br/&gt;&lt;/p&gt;
-
+&lt;p&gt;From this necessity, a group of enthusiastic scientists&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; developed the first platform of the datelife project in a two day hackathon in 2012, that was sponsored by the phylotastic project, funded by the National Science Foundation (NSF).&lt;/p&gt;
+&lt;p&gt;The first version of datelife was presented at iEvoBio in 2012. Watch a recording of that presentation &lt;a href=&#34;https://www.youtube.com/watch?time_continue=1&amp;amp;v=xWmLrbUWtyM&amp;amp;feature=emb_logo&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The project was continued by &lt;a href=&#34;http://brianomeara.info/&#34;&gt;Brian O&amp;rsquo;Meara&lt;/a&gt; at the University of Tennesse, Knoxville. He developed the &lt;a href=&#34;http://datelife.org/index.html&#34;&gt;website&lt;/a&gt;, the &lt;a href=&#34;http://datelife.org/query/&#34;&gt;R shiny application&lt;/a&gt;, and the &lt;a href=&#34;https://github.com/phylotastic/datelife&#34;&gt;R package&lt;/a&gt; to perform the main functionalities of datelife. In August 2017, I joined the team to finish the R package.
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;h2 id=&#34;what-does-datelife-do&#34;&gt;&lt;strong&gt;What does datelife do?&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;Take a look at the first manuscript of datelife, available in &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/782094v1&#34; target=&#34;_blank&#34;&gt;bioRxiv.&lt;/a&gt;
-&lt;br/&gt;
-&lt;br/&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;div class=&#34;footnotes&#34;&gt;
-
-&lt;hr /&gt;
-
+&lt;p&gt;Take a look at the first manuscript of datelife, available in &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/782094v1&#34;&gt;bioRxiv.&lt;/a&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:fn1&#34;&gt;Numbers from &lt;a href=&#34;https://doi.org/10.1371/journal.pbio.1001127&#34; target=&#34;_blank&#34;&gt;Mora C., Tittensor D.P., Adl S., Simpson A.G., Worm B. 2011. How many species are there on earth and in the ocean? PLoS Biology. 9:1–8&lt;/a&gt; and &lt;a href=&#34;https://doi.org/10.1126/science.1191058&#34; target=&#34;_blank&#34;&gt;Mayr R.M. 2010. Tropical Arthropod Species, More or Less? Science. 329:41–42&lt;/a&gt;.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:fn1&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:fn2&#34;&gt;&lt;a href=&#34;https://doi.org/10.1093/molbev/msx116&#34; target=&#34;_blank&#34;&gt;Kumar S., Stecher G., Suleski M., Hedges S.B. 2017. TimeTree: A Resource for Timelines, Timetrees, and Divergence Times. Molecular biology and evolution. 34:1812–1819.&lt;/a&gt;
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:fn2&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:fn3&#34;&gt;The first datelife team: Brian O&amp;rsquo;Meara, Jonathan Eastman, Tracy Heath, April Wright, Klaus Schliep, Scott Chamberlain, Peter Midford, Luke Harmon, Joseph Brown, Matt Pennell, and Mike Alfaro.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:fn3&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;The first datelife team: Brian O&amp;rsquo;Meara, Jonathan Eastman, Tracy Heath, April Wright, Klaus Schliep, Scott Chamberlain, Peter Midford, Luke Harmon, Joseph Brown, Matt Pennell, and Mike Alfaro. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;
+&lt;/section&gt;
 </description>
     </item>
     
     <item>
       <title>iNaturalist phylogenies</title>
-      <link>/project/inaturalist-datelife/</link>
+      <link>https://lunasare.com/project/inaturalist-datelife/</link>
       <pubDate>Sat, 19 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/project/inaturalist-datelife/</guid>
+      <guid>https://lunasare.com/project/inaturalist-datelife/</guid>
       <description>&lt;p&gt;Talk about:&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;In what context was this developed.&lt;/li&gt;
 &lt;li&gt;Link to Phylotasticed&lt;/li&gt;
 &lt;li&gt;improvements, future stuff&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;Add Lauren Chan profile&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Phylotastic</title>
-      <link>/project/phylotastic/</link>
+      <link>https://lunasare.com/project/phylotastic/</link>
       <pubDate>Sat, 19 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/project/phylotastic/</guid>
+      <guid>https://lunasare.com/project/phylotastic/</guid>
       <description>&lt;p&gt;Talk about:&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;The premises of phylotastic, why I think it is important.&lt;/li&gt;
 &lt;li&gt;My participation in the project, rphylotastic&lt;/li&gt;
 &lt;li&gt;Link to the biorxiv preprint and other papers&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;Add all other authors?&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>DateLife, leveraging databases and analytical tools to reveal the dated Tree of Life</title>
-      <link>/publications/2019-sanchez-reyes/</link>
+      <link>https://lunasare.com/publications/2019-sanchez-reyes/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/publications/2019-sanchez-reyes/</guid>
-      <description>&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
---&gt;
+      <guid>https://lunasare.com/publications/2019-sanchez-reyes/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     
     <item>
       <title>Phylotastic, improving access to tree-of-life knowledge with flexible, on-the-fly delivery of trees</title>
-      <link>/publications/2019-nguyen/</link>
+      <link>https://lunasare.com/publications/2019-nguyen/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publications/2019-nguyen/</guid>
-      <description>&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
---&gt;
+      <guid>https://lunasare.com/publications/2019-nguyen/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     

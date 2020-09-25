@@ -2,37 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gabriela Delgado-Sapien | Luna L. Sánchez Reyes</title>
-    <link>/authors/gabriela-delgado-sapien/</link>
-      <atom:link href="/authors/gabriela-delgado-sapien/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lunasare.com/authors/gabriela-delgado-sapien/</link>
+      <atom:link href="https://lunasare.com/authors/gabriela-delgado-sapien/index.xml" rel="self" type="application/rss+xml" />
     <description>Gabriela Delgado-Sapien</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Luna L. Sanchez-Reyes</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://lunasare.com/img/icon-192.png</url>
       <title>Gabriela Delgado-Sapien</title>
-      <link>/authors/gabriela-delgado-sapien/</link>
+      <link>https://lunasare.com/authors/gabriela-delgado-sapien/</link>
     </image>
     
     <item>
       <title>Hierarchical clustering of genetic diversity associated to different levels of mutation and recombination in Escherichia coli, a study based on Mexican isolates.</title>
-      <link>/publications/2013-gonzalez/</link>
+      <link>https://lunasare.com/publications/2013-gonzalez/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/publications/2013-gonzalez/</guid>
-      <description>&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
---&gt;
+      <guid>https://lunasare.com/publications/2013-gonzalez/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     

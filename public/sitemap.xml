@@ -1,428 +1,483 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>https://lunasare.com/authors/admin/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lunasare.com/publication_types/3/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lunasare.com/authors/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lunasare.com/authors/emily-jane-mctavish/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lunasare.com/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lunasare.com/authors/martha-kandziora/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lunasare.com/tags/open-science/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lunasare.com/tags/phylogenetic-estimates/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lunasare.com/publications/2020-sanchez-reyes/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lunasare.com/publication_types/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lunasare.com/publications/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lunasare.com/tags/python-package/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lunasare.com/tags/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lunasare.com/tags/blogdown/</loc>
+    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lunasare.com/post/envirolunch-talk/</loc>
+    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lunasare.com/post/</loc>
+    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lunasare.com/tags/reproducibility/</loc>
+    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lunasare.com/tags/science-communication/</loc>
+    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lunasare.com/tags/use-r/</loc>
+    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lunasare.com/tags/website-development/</loc>
+    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lunasare.com/post-dev/reproducibility-advanced/</loc>
     <lastmod>2020-04-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/open-science/</loc>
+    <loc>https://lunasare.com/post-dev/reproducibility-intro/</loc>
     <lastmod>2020-04-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/reproducibility-intro/</loc>
+    <loc>https://lunasare.com/post/reproducibility-intro/</loc>
     <lastmod>2020-04-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://lunasare.com/post-dev/</loc>
     <lastmod>2020-04-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/reproducibility/</loc>
+    <loc>https://lunasare.com/tags/use-git/</loc>
     <lastmod>2020-04-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/use-git/</loc>
-    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/use-r/</loc>
-    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/tutorial-blogdown/</loc>
+    <loc>https://lunasare.com/post/tutorial-blogdown/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/datelife/</loc>
+    <loc>https://lunasare.com/post-dev/tutorial-writing-tips/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lunasare.com/project/datelife/</loc>
     <lastmod>2019-11-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/macroevolution/</loc>
+    <loc>https://lunasare.com/tags/macroevolution/</loc>
     <lastmod>2019-11-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/phylogenetic-dating/</loc>
+    <loc>https://lunasare.com/tags/phylogenetic-dating/</loc>
     <lastmod>2019-11-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/</loc>
+    <loc>https://lunasare.com/project/</loc>
     <lastmod>2019-11-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/birth-death/</loc>
+    <loc>https://lunasare.com/tags/birth-death/</loc>
     <lastmod>2019-10-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/diversification-processes/</loc>
+    <loc>https://lunasare.com/tags/diversification-processes/</loc>
     <lastmod>2019-10-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/education/</loc>
+    <loc>https://lunasare.com/tags/education/</loc>
     <lastmod>2019-10-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/extinction/</loc>
+    <loc>https://lunasare.com/tags/extinction/</loc>
     <lastmod>2019-10-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/inaturalist-datelife/</loc>
+    <loc>https://lunasare.com/project/inaturalist-datelife/</loc>
     <lastmod>2019-10-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/model-testing/</loc>
+    <loc>https://lunasare.com/tags/model-testing/</loc>
     <lastmod>2019-10-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/diversification/</loc>
+    <loc>https://lunasare.com/project/diversification/</loc>
     <lastmod>2019-10-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/phylogenetics/</loc>
+    <loc>https://lunasare.com/tags/phylogenetics/</loc>
     <lastmod>2019-10-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/phylotastic/</loc>
+    <loc>https://lunasare.com/project/phylotastic/</loc>
     <lastmod>2019-10-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/speciation/</loc>
+    <loc>https://lunasare.com/tags/speciation/</loc>
     <lastmod>2019-10-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/admin/</loc>
+    <loc>https://lunasare.com/authors/brian-omeara/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/3/</loc>
+    <loc>https://lunasare.com/publications/2019-sanchez-reyes/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>https://lunasare.com/tags/r-package/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/brian-omeara/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publications/2019-sanchez-reyes/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publications/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/r-package/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/2/</loc>
+    <loc>https://lunasare.com/publication_types/2/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/abisai-garcia-mendoza/</loc>
+    <loc>https://lunasare.com/authors/abisai-garcia-mendoza/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/luis-e.-eguiarte/</loc>
+    <loc>https://lunasare.com/authors/luis-e.-eguiarte/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/nose-leafed-bats/</loc>
+    <loc>https://lunasare.com/tags/nose-leafed-bats/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/nuria-flores-abreu/</loc>
+    <loc>https://lunasare.com/authors/nuria-flores-abreu/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/roberto-trejo-salazar/</loc>
+    <loc>https://lunasare.com/authors/roberto-trejo-salazar/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/sara-good/</loc>
+    <loc>https://lunasare.com/authors/sara-good/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/susana-magallon/</loc>
+    <loc>https://lunasare.com/authors/susana-magallon/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publications/2018-flores-abreu/</loc>
+    <loc>https://lunasare.com/publications/2018-flores-abreu/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/about_and_contact/</loc>
+    <loc>https://lunasare.com/about_and_contact/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/flowering-plants/</loc>
+    <loc>https://lunasare.com/tags/flowering-plants/</loc>
     <lastmod>2018-10-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/sandra-gomez-acevedo/</loc>
+    <loc>https://lunasare.com/authors/sandra-gomez-acevedo/</loc>
     <lastmod>2018-10-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publications/2018-magallon/</loc>
+    <loc>https://lunasare.com/publications/2018-magallon/</loc>
     <lastmod>2018-10-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/arturo-de-nova/</loc>
+    <loc>https://lunasare.com/authors/arturo-de-nova/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publications/2018-de-nova/</loc>
+    <loc>https://lunasare.com/publications/2018-de-nova/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/license/</loc>
+    <loc>https://lunasare.com/license/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/abu-saleh-md-tayeen/</loc>
+    <loc>https://lunasare.com/authors/abu-saleh-md-tayeen/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/arlin-stoltzfus/</loc>
+    <loc>https://lunasare.com/authors/arlin-stoltzfus/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/dail-laughinghouse-vi/</loc>
+    <loc>https://lunasare.com/authors/dail-laughinghouse-vi/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/dimitri-mozzherin/</loc>
+    <loc>https://lunasare.com/authors/dimitri-mozzherin/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/enrico-pontelli/</loc>
+    <loc>https://lunasare.com/authors/enrico-pontelli/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publications/2019-nguyen/</loc>
+    <loc>https://lunasare.com/publications/2019-nguyen/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/thanh-nguyen/</loc>
+    <loc>https://lunasare.com/authors/thanh-nguyen/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/van-nguyen/</loc>
+    <loc>https://lunasare.com/authors/van-nguyen/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publications/2017-fragoso-martinez/</loc>
+    <loc>https://lunasare.com/publications/2017-fragoso-martinez/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/alan-r-lemmon/</loc>
+    <loc>https://lunasare.com/authors/alan-r-lemmon/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/anchored-hybrid-enrichment/</loc>
+    <loc>https://lunasare.com/tags/anchored-hybrid-enrichment/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/carolina-granados-mendoza/</loc>
+    <loc>https://lunasare.com/authors/carolina-granados-mendoza/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/emily-moriarty-lemmon/</loc>
+    <loc>https://lunasare.com/authors/emily-moriarty-lemmon/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/federico-sazatornil/</loc>
+    <loc>https://lunasare.com/authors/federico-sazatornil/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/genomics/</loc>
+    <loc>https://lunasare.com/tags/genomics/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/gerardo-salazar/</loc>
+    <loc>https://lunasare.com/authors/gerardo-salazar/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/itzi-fragoso-martinez/</loc>
+    <loc>https://lunasare.com/authors/itzi-fragoso-martinez/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/marta-martinez-gordillo/</loc>
+    <loc>https://lunasare.com/authors/marta-martinez-gordillo/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/helene-morlon/</loc>
+    <loc>https://lunasare.com/authors/helene-morlon/</loc>
     <lastmod>2016-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publications/2016-sanchez-reyes/</loc>
+    <loc>https://lunasare.com/publications/2016-sanchez-reyes/</loc>
     <lastmod>2016-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://lunasare.com/categories/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/2015-07-23-r-rmarkdown/</loc>
+    <loc>https://lunasare.com/post-dev/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/plot/</loc>
+    <loc>https://lunasare.com/tags/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/r/</loc>
+    <loc>https://lunasare.com/categories/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/r-markdown/</loc>
+    <loc>https://lunasare.com/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/regression/</loc>
+    <loc>https://lunasare.com/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/publications/2015-magallon/</loc>
+    <loc>https://lunasare.com/publications/2015-magallon/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/tania-hernandez-hernandez/</loc>
+    <loc>https://lunasare.com/authors/tania-hernandez-hernandez/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/andrea-gonzalez-gonzalez/</loc>
+    <loc>https://lunasare.com/authors/andrea-gonzalez-gonzalez/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/gabriela-delgado-sapien/</loc>
+    <loc>https://lunasare.com/authors/gabriela-delgado-sapien/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publications/2013-gonzalez/</loc>
+    <loc>https://lunasare.com/publications/2013-gonzalez/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/microbiology/</loc>
+    <loc>https://lunasare.com/tags/microbiology/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/population-genetics/</loc>
+    <loc>https://lunasare.com/tags/population-genetics/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/valeria-souza/</loc>
+    <loc>https://lunasare.com/authors/valeria-souza/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/all_posts/</loc>
+    <loc>https://lunasare.com/all_posts/</loc>
   </url>
   
   <url>
-    <loc>/all-widgets/</loc>
+    <loc>https://lunasare.com/all-widgets/</loc>
   </url>
   
 </urlset>

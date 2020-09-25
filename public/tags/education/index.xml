@@ -2,54 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Education | Luna L. Sánchez Reyes</title>
-    <link>/tags/education/</link>
-      <atom:link href="/tags/education/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lunasare.com/tags/education/</link>
+      <atom:link href="https://lunasare.com/tags/education/index.xml" rel="self" type="application/rss+xml" />
     <description>Education</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Luna L. Sanchez-Reyes</copyright><lastBuildDate>Sat, 19 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://lunasare.com/img/icon-192.png</url>
       <title>Education</title>
-      <link>/tags/education/</link>
+      <link>https://lunasare.com/tags/education/</link>
     </image>
     
     <item>
       <title>iNaturalist phylogenies</title>
-      <link>/project/inaturalist-datelife/</link>
+      <link>https://lunasare.com/project/inaturalist-datelife/</link>
       <pubDate>Sat, 19 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/project/inaturalist-datelife/</guid>
+      <guid>https://lunasare.com/project/inaturalist-datelife/</guid>
       <description>&lt;p&gt;Talk about:&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;In what context was this developed.&lt;/li&gt;
 &lt;li&gt;Link to Phylotasticed&lt;/li&gt;
 &lt;li&gt;improvements, future stuff&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;Add Lauren Chan profile&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Phylotastic, improving access to tree-of-life knowledge with flexible, on-the-fly delivery of trees</title>
-      <link>/publications/2019-nguyen/</link>
+      <link>https://lunasare.com/publications/2019-nguyen/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publications/2019-nguyen/</guid>
-      <description>&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
---&gt;
+      <guid>https://lunasare.com/publications/2019-nguyen/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     

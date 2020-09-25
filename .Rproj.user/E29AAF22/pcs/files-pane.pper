@@ -1,9 +1,9 @@
 {
-    "path" : "~/blogdown_lunasare",
-    "sortOrder" : [
+    "path": "~/blogdown_lunasare/content/authors/admin",
+    "sortOrder": [
         {
-            "ascending" : true,
-            "columnIndex" : 2
+            "columnIndex": 2,
+            "ascending": true
         }
     ]
 }

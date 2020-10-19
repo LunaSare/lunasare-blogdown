@@ -3,6 +3,71 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://lunasare.com/tags/diversification/</loc>
+    <lastmod>2020-10-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lunasare.com/post/high-dimensional-data/</loc>
+    <lastmod>2020-10-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lunasare.com/</loc>
+    <lastmod>2020-10-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lunasare.com/tags/modeling/</loc>
+    <lastmod>2020-10-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lunasare.com/tags/phylogenetics/</loc>
+    <lastmod>2020-10-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lunasare.com/post/</loc>
+    <lastmod>2020-10-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lunasare.com/tags/statistics/</loc>
+    <lastmod>2020-10-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lunasare.com/tags/</loc>
+    <lastmod>2020-10-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lunasare.com/tags/latex/</loc>
+    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lunasare.com/post/rmarkdown-error-l3backend-pdfmode/</loc>
+    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lunasare.com/tags/open-science/</loc>
+    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lunasare.com/tags/reproducibility/</loc>
+    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lunasare.com/tags/use-r/</loc>
+    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lunasare.com/authors/admin/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url>
@@ -23,17 +88,7 @@
   </url>
   
   <url>
-    <loc>https://lunasare.com/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://lunasare.com/authors/martha-kandziora/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lunasare.com/tags/open-science/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -63,11 +118,6 @@
   </url>
   
   <url>
-    <loc>https://lunasare.com/tags/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://lunasare.com/tags/blogdown/</loc>
     <lastmod>2020-04-23T00:00:00+00:00</lastmod>
   </url>
@@ -78,22 +128,7 @@
   </url>
   
   <url>
-    <loc>https://lunasare.com/post/</loc>
-    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lunasare.com/tags/reproducibility/</loc>
-    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://lunasare.com/tags/science-communication/</loc>
-    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lunasare.com/tags/use-r/</loc>
     <lastmod>2020-04-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -129,6 +164,11 @@
   
   <url>
     <loc>https://lunasare.com/post/tutorial-blogdown/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lunasare.com/post/opentree-curation/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -189,11 +229,6 @@
   
   <url>
     <loc>https://lunasare.com/project/diversification/</loc>
-    <lastmod>2019-10-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lunasare.com/tags/phylogenetics/</loc>
     <lastmod>2019-10-19T00:00:00+00:00</lastmod>
   </url>
   

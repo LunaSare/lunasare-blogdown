@@ -5,12 +5,40 @@
     <link>https://lunasare.com/tags/phylogenetics/</link>
       <atom:link href="https://lunasare.com/tags/phylogenetics/index.xml" rel="self" type="application/rss+xml" />
     <description>Phylogenetics</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Luna L. Sanchez-Reyes</copyright><lastBuildDate>Sat, 19 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Luna L. Sanchez-Reyes</copyright><lastBuildDate>Mon, 19 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lunasare.com/img/icon-192.png</url>
       <title>Phylogenetics</title>
       <link>https://lunasare.com/tags/phylogenetics/</link>
     </image>
+    
+    <item>
+      <title>High-dimensional data in phylogenetics</title>
+      <link>https://lunasare.com/post/high-dimensional-data/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://lunasare.com/post/high-dimensional-data/</guid>
+      <description>&lt;p&gt;What is high-dimensional data?&lt;/p&gt;
+&lt;p&gt;The concept of high-dimensionality applies to data sets that contain a high number of variables, so high that it often surpasses the population sample size.&lt;/p&gt;
+&lt;p&gt;For example, when the number of genes affecting a phenotypes is higher than the number of people the genetic data was drawn from.&lt;/p&gt;
+&lt;p&gt;This is a statistical problem.&lt;/p&gt;
+&lt;p&gt;Check these:
+&lt;a href=&#34;https://www.statisticshowto.com/dimensionality/#:~:text=High%20Dimensional%20means%20that%20the,tens%20of%20hundreds%20of%20samples&#34;&gt;https://www.statisticshowto.com/dimensionality/#:~:text=High%20Dimensional%20means%20that%20the,tens%20of%20hundreds%20of%20samples&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;From the previous post: &amp;ldquo;Each added variable results in an exponential decrease in predictive power.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Book: &lt;a href=&#34;https://www.springer.com/gp/book/9783642201912&#34;&gt;https://www.springer.com/gp/book/9783642201912&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;When is high-dimensionality a problem in phylogenetics?&lt;/p&gt;
+&lt;p&gt;In phylogenetics, we usually have as sample size the number of tips on the phylogeny. Should we be using also the number of nodes?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open Tree of Life curation tools</title>
+      <link>https://lunasare.com/post/opentree-curation/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://lunasare.com/post/opentree-curation/</guid>
+      <description>&lt;p&gt;Useful links&lt;/p&gt;
+&lt;p&gt;OpenTree curation drive folder &lt;a href=&#34;https://drive.google.com/drive/folders/1q3Eddo23FwZewL2sgp8Uhwp12fZl0V1k&#34;&gt;https://drive.google.com/drive/folders/1q3Eddo23FwZewL2sgp8Uhwp12fZl0V1k&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>iNaturalist phylogenies</title>

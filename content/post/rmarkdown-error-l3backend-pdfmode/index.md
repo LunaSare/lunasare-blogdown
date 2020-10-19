@@ -1,5 +1,5 @@
 ---
-title: latex error from rmarkdown
+title: "laTeX issue with rmarkdown's render"
 author: Luna L. Sanchez-Reyes
 date: "2020-10-06"
 
@@ -10,7 +10,7 @@ tags:
 - laTex
 
 
-summary: Go to [tutorial.](https://lunasare.github.io/slides/tutorial-blogdown-2020-03-24)
+summary: 
 ---
 
 It's 8pm in Merced, California, beginning of fall and we're 35C.

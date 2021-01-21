@@ -1,9 +1,0 @@
-{
-    "dialog-state": {
-        "caseSensitive": false,
-        "filePatterns": [],
-        "path": "~/blogdown_cv",
-        "query": "opacity",
-        "regex": false
-    }
-}

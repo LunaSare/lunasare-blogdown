@@ -30,7 +30,7 @@ git push
 ```
 
 That's it, no need to commit.
-If there are merging issues you just have to fix them and then you do have to commit, then merge, then push `r emo::ji("star2")`
+If there are merging issues you just have to fix them and then you do have to commit, then merge, then push :star2:
 
 
 

@@ -1,5 +1,149 @@
-SORTEE discussion: Why don't we share data and code?
+SORTEE discussion: Why don't we share data and code?!
+
+Read as an inviting question and not as an inquisitive one
 
 Resources:
 
 https://docs.google.com/document/d/1wCORCUNb80eOv68BF_Z50GXwKZ18UzMacYclBfUxFB0/edit
+
+# July 6, 2021: SORTEE unconference
+# Something is better than nothing!
+
+Relevant links:
+
+https://academic.oup.com/bioscience/article/65/1/69/2754215
+
+Notes from discussion
+
+Fear of scooping as a barrier to data sharing
+Scooping fears are likely overblown - people are working on their own things
+Also, people won’t know your dataset as well as you - making data public may open the door for collaboration on other publications. There are more potential benefits in making data open and being scooped is not too likely.
+Can possibly add disclaimer about plans for data, future plans, when data are downloaded
+Problems of not sharing data: hugging data for too long, research being slowed down…
+Journal policies: an author must contribute to the writing, not only data.
+
+Lack of incentive structure
+When you share your data there is a similar or larger advantage as when you publish a paper, if you get a doi for the data, this will actually lead to people citing the paper
+Some journals are requiring data/code sharing for publication
+Within workplaces, can we convince promotion committees to acknowledge data publications
+
+
+Reasons for not sharing vary across subject areas:
+Insecurity/embarrassment about the state of code does not seem to be an issue for computational researchers. They seem to not care too much about the state of people’s code, because they see it as a learning process and they know there is no perfect code. It is always improvable.
+
+Resources from participants:
+
+Courses and tutorials:
+Just tracked down a link to a course I took at NCEAS that covered steps for data archiving: https://learning.nceas.ucsb.edu/2019-11-RRCourse/data-documentation-and-publishing.html
+
+ESA just adopted a new policy in February and has a pretty clear guidance about choosing a repository and uploading: https://www.esa.org/publications/data-policy/
+
+https://www.youtube.com/watch?v=bo4_mShJfyM Data & Software Sharing Guidance for Early Career Researchers - AGU Journal Requirements
+
+Papers:
+https://www.pnas.org/content/115/11/2584
+
+https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000763
+
+https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001779
+
+Blogs:
+
+https://metarabbit.wordpress.com/2013/05/06/people-are-right-not-to-share-scientific-code/
+
+Initiatives:
+
+Open code pledge https://github.com/FreeOurKnowledge/website
+
+https://www.dataone.org/
+
+-- Other fields have gone open data/code and have survived! We can do it!
+
+
+Reasons NOT to share data/code
+Solution / counter argument
+Someone might ‘scoop’ an analysis I plan on doing
+Disclaimers of on-going future work (Read.me file?), reaching out for collaborations?
+
+Many reasons to contact the author: metadata, experimental design, etc
+Someone might inappropriately analyze my data and draw erroneous conclusions
+Proper metadata can ensure that data are not misleading and proper caution / warning can be included in the readme file.
+
+Perhaps including contact information and a “I am willing to collaborate to avoid interpretation errors” clause might help avoid these scenarios
+I don’t have the time
+
+
+Start the process already thinking you’ll share it--reduces editing/cleaning time afterwards
+My data are my intellectual property and they don’t need to exist in the public domain
+Lots of the data we (researchers) use (e.g. environmental, satellite, biodiversity) is open data--so why don't we join the effort?
+
+Most data is government funded, so it should belong to the public.
+Insecurity/embarrassment about the state of code (especially for novice coders)
+Better share messy data than none at all. Collaboration improves code (critiques help you improve your code)
+
+Invest in documentation (good for yourself too!)
+Lack of an incentive structure in academia (or perceived lack of incentive)
+Citation advantage, can get a DOI
+Don’t know how to share; learning curve
+There are lots of resources online for learning; Something is better than nothing -- as long as you can put something up, you can always fix it later.
+
+Short guide/tutorial. Include options and descriptions of databases/their purposes
+https://learning.nceas.ucsb.edu/2019-11-RRCourse/data-documentation-and-publishing.html
+https://www.youtube.com/watch?v=bo4_mShJfyM
+https://www.esa.org/publications/data-policy/
+
+
+No one else is doing it, why should I?
+Develop/Join a collective action campaign on Project Free Our Knowledge.
+Example of proposed campaign in the Neurosciences: https://github.com/FreeOurKnowledge/website/issues/30
+
+
+Fear of someone finding mistakes in my data
+An inclusive environment
+Do I have full rights to share a collaboratively-generated dataset ? (More so: what if you’re a student and your PI says NO)
+Creating a proactive agreement re: intellectual property (https://assistant.portagenetwork.ca) at least helps iron out conflicts from the outset
+
+Sharing portions of the project for which you have the sole IP (e.g. code you wrote entirely yourself with sample/simulated data)
+Accountability
+
+
+Long term stability/funding of databases are questionable
+Journals could use their fees to cover some of these costs. Grants should also include those charges
+Sensitive data/code (e.g. endangered spp, medical data (?))
+Some exceptions are okay? Can the data be anonymized or simulated in a way that allows someone to reproduce the results?
+Someone will use my code without credit
+Are there or should we develop ecology-specific licensing or community guidelines? Or standards for how to credit github repositories, etc.?
+Datasets are too large to store anywhere easily
+
+
+
+
+
+Proposed simple steps to sharing code and data
+
+https://data.agu.org/resources/agu-data-software-sharing-guidance
+
+Expanding pledge to Social media -- for proliferating sharing data and code -- can possibly create a network of folks that share (tweet, etc.) each others work that shares data and code… this isn’t well written (long day)
+
+Lots of great examples of open science and why it matters (COVID, UN meeting)
+
+
+Add names and email (if interested in follow-ups):
+Dylan Gomes dylan.ge.gomes@gmail.com
+Cooper Smout cooper.smout@gmail.com
+Luna L. Sanchez-Reyes sanchez.reyes.luna@gmail.com
+Juliane Gaviraghi Mussoi jgav196@aucklanduni.ac.nz
+Kaitlyn Gaynor gaynor@nceas.ucsb.edu
+Rachel Turba rturba@ucla.edu
+Rob Crystal-Ornelas rcrystalornelas@lbl.gov
+Patrice Pottier p.pottier@unsw.edu.au
+Vivienne Foroughirad vjf5@georgetown.edu
+David Moreau; d.moreau@auckland.ac.nz
+Anthony Davidson; anthony.davidson@canberra.edu.au
+Kathy Potter katherine.potter@students.mq.edu.au
+Wai-Yin Kwan wykhuh@gmail.com
+Yen Yi Loo looyenyi@gmail.com
+Emma Hudgins emma.hudgins@carleton.ca (I couldn’t make it to the discussion bc of timezones but am interested!)
+Michael Bertram michael.bertram@slu.se - I also couldn’t make the discussion due to a scheduling conflict but am very interested in this topic
+Manuel Illanes rmib200@gmail.com
+Paula Andrea Martinez paula.martinez@ardc.edu.au

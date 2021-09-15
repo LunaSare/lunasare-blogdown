@@ -147,3 +147,71 @@ Emma Hudgins emma.hudgins@carleton.ca (I couldn’t make it to the discussion bc
 Michael Bertram michael.bertram@slu.se - I also couldn’t make the discussion due to a scheduling conflict but am very interested in this topic
 Manuel Illanes rmib200@gmail.com
 Paula Andrea Martinez paula.martinez@ardc.edu.au
+
+
+# 14th September 2021 meeting (depending on where you are)
+
+Attendance:
+Dylan Gomes
+Luna L Sanchez Reyes
+Vivienne Foroughirad
+Rachel Turba
+Patrice Pottier
+Emma Hudgins
+
+Notes:
+Our target audience is a potential data sharer that does not usually share data.
+We could also frame some ideas from the data user perspective, e.g., contact authors to share data and understand data.
+
+Writing a few paragraphs as an introduction -- why we should share data / code
+	-- perhaps keeping this short?
+Tailor specifically to EEB? Making it broader?
+	https://www.nature.com/articles/s41597-021-00981-0: includes ecology-specific reasons for not sharing data and code
+	Our expertise might make us better suited for a focused approach
+		Focused examples! The exercise can be applied more broadly
+	Long-term datasets might be more tricky
+Collect information to back up why sharing code is better
+	# of citations etc
+	Is there already published work on this?
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230416 for citation advantage
+Target journal: Open access and free of charge
+	Kaitlyn: her university covers OA fees if a corresponding author.
+	Proc B, wait 6 months and then it is open access
+BiorXiv
+JOSE Journal of Open Source Education ​​https://jose.theoj.org/about
+Blog with list of ecology OA journals & fees: https://danieljhocking.wordpress.com/links/oa-journals/
+Share standards as examples:
+	like EML (Ecological Metadata Language): https://eml.ecoinformatics.org
+FAIR principles: https://www.ands.org.au/working-with-data/fairdata
+Towards standard practices for sharing computer code and programs in neuroscience
+The Basic Reproducible Workflow Template · GitBook
+Introduction to Open Reproducible Science Workflows
+Welcome to Reproducible Data Science — Reproducible Data Science + Python + Real-World Data
+Tips For Building a Successful Data Science Workflow
+Principles for data analysis workflows
+Creating reproducible data science workflows with DVC | by Gleb Ivashkevich | Yandex school of Data Science
+A quick guide to developing a reproducible and consistent data science workflow
+Creating Reproducible Data Science Projects | by Justin Boylan-Toomey
+
+Any examples that we should include for each reason not to share? -- worth going over each one?
+People can “steal” data from figures anyway -- so why not just share those data so that individuals can more easily and quickly move a field forward.
+
+Potential outline:
+Intro: sharing data and code is important.
+There have been many calls from the community and policy changes in journals to incentivize.
+However, data and code sharing has not increased significantly (do we have data for that? Can we get it?)
+At the sortee conference, participants stated 10 or so main reasons why they personally do not share data and code, or reasons why they believe other researchers do not share data and code.
+Arguments to dismiss fears and concerns.
+Ways to cope with these reasons, so researchers realize it is better to share than to not share.
+Hard data showing sharing data and code increases citations/ is good for your career.
+
+How to define authorship order:
+	List requirements and commitments.
+
+
+Next steps:
+Decide on final list of reasons for not sharing data and code (rows in table)
+What other tasks? -- Introduction?
+Review of existing data and code sharing standards.
+Assign each reason to a person for writing a short section for MS
+Other ideas?

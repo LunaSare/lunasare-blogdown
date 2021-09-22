@@ -1,3 +1,3 @@
-# Luna L. Sanchez Reyes professional website
+# Welcome to my GitHub account!
 
-This repo contains the code used to construct https://lunasare.com
+You can visit my acdemic website at https://lunasare.com

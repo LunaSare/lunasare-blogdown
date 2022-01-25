@@ -1,0 +1,54 @@
+---
+title: "Programming with R - Episode 1"
+author: "Luna L Sanchez Reyes"
+date: "1/25/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Fundamentals of the Lesson
+
+*General goal*: Learn the basic concepts of programming and become a good/better programmer
+
+The are two main aspects to becoming a good programmer: 
+
+1) Identify the programming language that your colleagues and collaborators are using in your field, and 
+2) use that language well.
+
+
+The R programming language has a large and still growing user base among researchers and scientists, it is free, well documented, runs almost everywhere, and packages that add into its functionality are constantly being added.
+
+Many learners have identified that using real data to practice and do something useful with it is the best way to learn how to use a programming language well.
+
+*Specific goal*: learn the basics concepts of programming by analyzing data with R programming language
+
+
+
+
+
+
+
+## Goals of this first episode with R
+
+* Load data into memory,
+* Calculate the average value of inflammation per day across all patients, and
+* Plot the results.
+
+## Schedule:
+
+
+1. Creating a project with the RStudio GUI (5 min)
+  - Why: 
+  - How: 
+
+2. Loading data
+  - Functions to load data
+
+3. Manipulating data
+
+
+4. Plotting data

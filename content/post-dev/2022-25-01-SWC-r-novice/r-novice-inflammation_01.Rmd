@@ -10,45 +10,143 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-## Fundamentals of the Lesson
+## 0.0 Fundamentals of the Lesson (5 min)
 
-*General goal*: Learn the basic concepts of programming and become a good/better programmer
+  - *General goal*
 
-The are two main aspects to becoming a good programmer: 
+Learn the basic concepts of programming and become a successful programmer
 
-1) Identify the programming language that your colleagues and collaborators are using in your field, and 
-2) use that language well.
+  - *How*
+  
+The are two main aspects for becoming a successful programmer: 
+   1) Identifying the programming language that your colleagues and collaborators are using in your field, and 
+   2) Using that language well.
+
+The R programming language has a large and (still growing) user base among researchers and scientists, it is free, it is well documented, it runs almost everywhere, and the community is constantly adding new packages that expand its functionalities.
+
+Many learners have identified that using real data to practice and to do something useful with them is one of the best ways to learn how to use a programming language well.
+
+  - *Specific goal*
+  
+Learn the basics concepts of programming by analyzing data with the R programming language.
 
 
-The R programming language has a large and still growing user base among researchers and scientists, it is free, well documented, runs almost everywhere, and packages that add into its functionality are constantly being added.
+  - *Time for learners to set up*
 
-Many learners have identified that using real data to practice and do something useful with it is the best way to learn how to use a programming language well.
-
-*Specific goal*: learn the basics concepts of programming by analyzing data with R programming language
-
+To achieve our specific goal we will need R, RStudio, and a dataset to work with:
+http://swcarpentry.github.io/r-novice-inflammation/setup.html 
 
 
 
+## 1.0 Fundamentals of Episode 1: Analyzing patient data (5 min)
 
+  - *Data description*
 
+We will be working with data on inflammation of patients that are being given a new treatment for arthritis.
 
-## Goals of this first episode with R
+The data consist of 12 "Comma Separated Value" (csv) files.
 
-* Load data into memory,
+  - *Show contents of one dataset with cat*
+
+Each row contains inflammation data for one patient, and each column contains inflammation data measured in a day.
+
+  - *Objectives of the episode 1* 
+
+* Load the data into memory,
 * Calculate the average value of inflammation per day across all patients, and
 * Plot the results.
 
-## Schedule:
-
-
-1. Creating a project with the RStudio GUI (5 min)
+## 1.1. Creating a project with the RStudio GUI (5 min)
+  - What: A project is made by creating a ".Rproj.user" file in a directory. This flags it as the working directory for all files and scripts that are within the directory. This also tells R to create a workspace, and a history that are independent of any other work and dir in your computer.
   - Why: 
-  - How: 
+    - It facilitates the programming (and research) tasks by creating a streamlined and solid workflow,
+    - It is a friend of version control
+    - helps build habits that result in reproducible analysis, as it helps visualizing your work as an independent piece that should be self-contained, i.e, that can run in any other computer, at any other time.
+  - How: *Show in the RStudio GUI how to create a project*
 
-2. Loading data
-  - Functions to load data
+## 1.2. Loading data (10 min)
 
-3. Manipulating data
+  - A little vocabulary: 
+    - The commands that we type into R are called "expressions" when they are not evaluated by the computer. 
+    - The main structure of R commands is called a "function".
+    
+  - The anatomy of an R function call: `function_name( )`. 
+    - They can take arguments or not. 
+      - For example `ls()` does not take any argument. 
+      - We will see this function in Episode 6 - Best practices for writing R code.
+      - Functions that take arguments are called as follows: `function_name(argument1 = value_of_argument1, argument2 = value_of_argument2)`
+
+  - Use `read.csv( )` to load a dataset into R.
+  - *Students load the data with read.csv + green checks*
+  
+  - Get help on function usage with ? and man()
+  
+
+## 1.3. Manipulating data (10 min)
+  - The "assignment" operator
+  - The "sequence" operator
 
 
-4. Plotting data
+## 1.4. Plotting data (10 min)
+  - Richard Hamming, a mathematician that made contributions to informatics and communications.
+  
+## 2.0 Fundamentals of Episode 2: Creating functions (1 min)
+
+  Because we have 12 datasets to check (and more in the way), it would be useful to know how to repeat several operations on a file with a single command.
+  To do this we will learn how to create `functions`.
+
+  *Objectives of Episode 2*
+
+* Define a function that takes arguments
+* Test the returned value of a function
+* Define a function that has default arguments
+* Discuss: why we should divide programs into small, single-purpose functions
+  
+## 2.1 Defining a function (aka, creating a function)
+ - A "function" is defined as a self-contained module of code that performs a specific task. 
+ - It only runs when it is called.
+ - The anatomy of a function assignment is `name <- function(...args...) {...body...}`
+ - Pseudocode of "fahrenheit_to_celsius"
+ - *Define function `fahrenheit_to_celsius()`*
+
+## 2.2 Composing a function
+
+ - Pseudocode of "celsius_to_kelvin"
+ - *Create function `celsius_to_kelvin()` + green checks`*
+
+ - The current stack
+
+
+## 2.3 Testing, Error Handling, and Documenting
+
+  - Creating a test for our functions allow us to check that the function is working correctly, or at least as we expect it to.
+    - all.equal()
+  - Handling NAs in functions that take numbers:
+    - na.rm argument in mean()
+  - Handling other errors and unexpected things with warning() and stop().
+  - Informal function documentation with "#"
+  - Formal function documentation (that you access with ? and man) is written in separate `.Rd` files using a markup language similar to LaTeX that is called markdown.
+  - *EXERCISE: Functions to Create Graphs. Create the `analyze()` function. *
+  
+## 2.4 Defining defaults
+
+  - The position of arguments matter if they are not named.
+  
+  - Name matching, partial name matching, position.
+
+## 3.0 Intro to Analyzing multiple datasets
+
+  - We want to apply the `analyze()` function that we just created to all our datasets.
+  - We do not want to do this one by one, we want the computer to do the repetitions for us
+  
+## 3.1 `for` loops
+
+  - Repeating functions by hand is a bad approach to repeating a task in R because:
+    - it does not scale
+    - it is fragile
+  - the anatomy of a `for` loop
+  - the "length of a vector" loop
+  - 
+
+## 3.2 Processing files
+

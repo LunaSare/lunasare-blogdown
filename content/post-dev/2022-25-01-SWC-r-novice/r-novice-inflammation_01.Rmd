@@ -77,28 +77,34 @@ Each row contains inflammation data for one patient, and each column contains in
 
 ## 1.2. Loading data (10 min)
 
+  - Add comments to your code/scripts with "#"
+
   - A little vocabulary: 
     - The commands that we type into R are called "expressions" when they are not evaluated by the computer. 
     - One of the main types of R commands is called a "function".
 
-  - Add comments to your code/scripts with "#"
   - *Follow-along: We will use the function `read.csv( )` to load a dataset into R*.
-  - get help with ? or `help()`
-  - The anatomy of an R function call is `function_name(argument1 = value_for_argument1, argument2 = value_for_argument2, ...)`. 
-  - Execute your script or line with `command + Enter` or "run" button
-  - *green checks*
-  
-    
+    - get help with ? or `help()`
+    - The anatomy of an R function call is `function_name(argument1 = value_for_argument1, argument2 = value_for_argument2, ...)`. 
+    - Execute your script or line with `command + Enter` or "run" button
+    - *green checks*
   
   - Functions can take arguments or not. 
     - For example `ls()` lists everything that we have loaded or created in our R workspace. It can be used without any arguments. 
     - We will see more uses of this function in Episode 6 - Best practices for writing R code.
 
-  - The "assignment" operator to create an object with our data
-  - *`dat <- read.csv(file = "data/inflammation-01.csv", header = FALSE)`*
-  - *run `ls()` again to show them that we have created an object*
+  - in order to use data loaded from a file, we need to assign it to an object or variable
+    - an object or variable in R is a container with a name, such as "my_data" that contains one or more values
+      - variable names have to start with a letter
+      - Variable names are case sensitive
+    - The "assignment" operator is used to create an object containing our data
+    - *`dat <- read.csv(file = "data/inflammation-01.csv", header = FALSE)`*
+    - *run `ls()` again to show them that we have created an object*
   
-  - `head(dat)`, `tail(dat)`
+  - We can check the contents of our newly created object with: 
+    - `head(dat)`, `tail(dat)`
+    - calling the object by its name
+    - using parentheses when assigning the object
 
 ## 1.3. Manipulating data (10 min)
   
@@ -109,14 +115,20 @@ Each row contains inflammation data for one patient, and each column contains in
   
   - Subsetting a `data.frame`
     - With `[ , ]`: The first value in a data frame index is the row, the second value is the column
-    - With `$` and a column or row name
+      - *`patient1_day1 <- dat[1,1]`*
+    - With `$` and a column name
+      - *day1 <- dat$V1*
     - The "sequence" operator to subset
-    - *`create a subset of first four_days <- dat[, 1:4]`*
+      - *`create a subset of first four_days <- dat[, 1:4]`*
+    - The seq() function to subset
+      - *`create a subset of first five_days <- dat[, seq(5)]`*
     - The "c()" function to subset
+      - Patients 1,3,5 on day 10 and 20
     - Leaving an empty index will select all the values
       *Create a `patient1 <- dat[1, ]` subset*
       *Create a `day20 <- dat[ , 20]` subset*
-    - Apply `class()` and `dim()` to `patient1` and `day1`
+      *day2 <- dat[ , "V2"]*
+   - Apply `class()` and `dim()` to `patient1` and `day1`
     - Subset vectors with `[ ]`
     
   - Use min, max, mean, median, and sd on the `day20` and `patient1` subset
@@ -170,7 +182,6 @@ Each row contains inflammation data for one patient, and each column contains in
  - Compose function Fahrenheit to Kelvin
  
  - Nesting functions
- - The current stack
 
 
 ## 2.3 Testing, Error Handling, and Documenting
@@ -187,27 +198,43 @@ Each row contains inflammation data for one patient, and each column contains in
   - Informal function documentation with "#"
   - Formal function documentation (that you access with ? and man) is written in separate `.Rd` files using a markup language similar to LaTeX that is called markdown. We will see more of this in Episode
   
-  - *EXERCISE: Functions to Create Graphs. Create the `analyze()` function with an `apply`. *
+  - *EXERCISE: Functions to Create Graphs. Create the `analyze()` function with an `apply`.*
   
 ## 2.4 Defining defaults
 
-  - The position of arguments matter if they are not named.
+  - Sometime arguments have default values, i.e., the user does not have to provide any value and can be changed optionally.
+    - Example: We want fahrenheit_to_celsius to gibe back a numeric value of temperature, but have the option to return a character value by adding a "C" indicating the temperature scale.
   
-  - Name matching, partial name matching, position.
+  - The position of arguments matter if we provide no name.
+  
+  - Argument matching order: by name, by partial name, by position.
 
 ## 3.0 Intro to Analyzing multiple datasets
 
   - We want to apply the `analyze()` function that we just created to all our datasets.
-  - We do not want to do this one by one, we want the computer to do the repetitions for us
+  - `analyze("data/inflammation-01.csv")`
+  - `analyze("data/inflammation-02.csv")` ...
+  - We do not want to do this one by one, we want the computer to do the repetitions for us. 
   
-## 3.1 `for` loops
-
   - Repeating functions by hand is a bad approach to repeating a task in R because:
     - it does not scale
     - it is fragile
-  - the anatomy of a `for` loop
-  - the "length of a vector" loop
-  - 
+    - Example: create vector `best_practice <- "Let the computer do the work"`
+    - *create function with multiple prints*
+
+## 3.1 `for` loops
+
+  - the anatomy of a `for` loop: 
+    `for (variable in collection) {do things with variable}`
+    
+  - *the `print_words` loop*
+  
+  - *the "length of the `best_practice` vector" loop*
+    - the `length( )` function
 
 ## 3.2 Processing files
 
+ - Function to find files with a certain name pattern: *list.files(path = "data", pattern = "csv")*
+ - argument `full.names = TRUE`
+ - regular expressions in R
+ - *EXERCISE: Using Loops to Analyze Multiple Files*

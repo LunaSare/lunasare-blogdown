@@ -7,6 +7,7 @@ output: html_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+dat <- read.csv("inflammation-01.csv")
 ```
 
 
@@ -18,11 +19,11 @@ Learn the basic concepts of programming and become a successful programmer
 
   - *How*
   
-The are two main aspects for becoming a successful programmer: 
+The are two keys to becoming a successful programmer: 
    1) Identifying the programming language that your colleagues and collaborators are using in your field, and 
    2) Using that language well.
 
-The R programming language has a large and (still growing) user base among researchers and scientists, it is free, it is well documented, it runs almost everywhere, and the community is constantly adding new packages that expand its functionalities.
+The R programming language has a large and (still growing) user base among researchers and scientists, it is free, it is well documented, it runs almost everywhere, and the community is constantly adding new packages that expand its functionalities and hence its analytic versatility.
 
 Many learners have identified that using real data to practice and to do something useful with them is one of the best ways to learn how to use a programming language well.
 
@@ -33,8 +34,10 @@ Learn the basics concepts of programming by analyzing data with the R programmin
 
   - *Time for learners to set up*
 
-To achieve our specific goal we will need R, RStudio, and a dataset to work with:
+To achieve our specific goal we will need R, RStudio, and a dataset to work with (as well as a script.R file):
 http://swcarpentry.github.io/r-novice-inflammation/setup.html 
+  
+  - *green checks*
 
 
 
@@ -42,53 +45,102 @@ http://swcarpentry.github.io/r-novice-inflammation/setup.html
 
   - *Data description*
 
-We will be working with data on inflammation of patients that are being given a new treatment for arthritis.
+We will be analysing 12 datasets of inflammation measured in patients that are being given a new treatment for arthritis.
 
-The data consist of 12 "Comma Separated Value" (csv) files.
+The data is stored as "Comma Separated Value" (.csv) files.
 
-  - *Show contents of one dataset with cat*
+  - *Show contents of one dataset with `less`*
 
 Each row contains inflammation data for one patient, and each column contains inflammation data measured in a day.
 
   - *Objectives of the episode 1* 
 
 * Load the data into memory,
-* Calculate the average value of inflammation per day across all patients, and
+* Calculate the average value of inflammation per day (per column) across all patients, and
 * Plot the results.
 
 ## 1.1. Creating a project with the RStudio GUI (5 min)
-  - What: A project is made by creating a ".Rproj.user" file in a directory. This flags it as the working directory for all files and scripts that are within the directory. This also tells R to create a workspace, and a history that are independent of any other work and dir in your computer.
+  - What: A project is made by creating a ".Rproj.user" file in a directory. This file flags the dir as the working directory for all files and scripts that are within it, creating a self-contained directory structure 
+    - (This allows R to create a workspace, and a history that are independent of any other work and dir in your computer.)
   - Why: 
-    - It facilitates the programming (and research) tasks by creating a streamlined and solid workflow,
-    - It is a friend of version control
-    - helps build habits that result in reproducible analysis, as it helps visualizing your work as an independent piece that should be self-contained, i.e, that can run in any other computer, at any other time.
+    - It creates a streamlined, sturdy workflow, that facilitates programming (and research) tasks, 
+    - it allows your work to run in any other computer, at any other time
+    - it helps build habits that result in reproducible analysis
+    - It is a close friend of version control
   - How: *Show in the RStudio GUI how to create a project*
+  - *green checks*
+  - Show 4 windows/panes of RStudio: process, source/code, workspace, information
+  - We will be working on a script.R
+  - *open/create a script.R*
+  - *green checks*
+
 
 ## 1.2. Loading data (10 min)
 
   - A little vocabulary: 
     - The commands that we type into R are called "expressions" when they are not evaluated by the computer. 
-    - The main structure of R commands is called a "function".
-    
-  - The anatomy of an R function call: `function_name( )`. 
-    - They can take arguments or not. 
-      - For example `ls()` does not take any argument. 
-      - We will see this function in Episode 6 - Best practices for writing R code.
-      - Functions that take arguments are called as follows: `function_name(argument1 = value_of_argument1, argument2 = value_of_argument2)`
+    - One of the main types of R commands is called a "function".
 
-  - Use `read.csv( )` to load a dataset into R.
-  - *Students load the data with read.csv + green checks*
+  - Add comments to your code/scripts with "#"
+  - *Follow-along: We will use the function `read.csv( )` to load a dataset into R*.
+  - get help with ? or `help()`
+  - The anatomy of an R function call is `function_name(argument1 = value_for_argument1, argument2 = value_for_argument2, ...)`. 
+  - Execute your script or line with `command + Enter` or "run" button
+  - *green checks*
   
-  - Get help on function usage with ? and man()
+    
   
+  - Functions can take arguments or not. 
+    - For example `ls()` lists everything that we have loaded or created in our R workspace. It can be used without any arguments. 
+    - We will see more uses of this function in Episode 6 - Best practices for writing R code.
+
+  - The "assignment" operator to create an object with our data
+  - *`dat <- read.csv(file = "data/inflammation-01.csv", header = FALSE)`*
+  - *run `ls()` again to show them that we have created an object*
+  
+  - `head(dat)`, `tail(dat)`
 
 ## 1.3. Manipulating data (10 min)
-  - The "assignment" operator
-  - The "sequence" operator
+  
+  - The `class()` of objects
 
+  - The `data.frame` data structure
+    - The function `dim()` to give us row and column number
+  
+  - Subsetting a `data.frame`
+    - With `[ , ]`: The first value in a data frame index is the row, the second value is the column
+    - With `$` and a column or row name
+    - The "sequence" operator to subset
+    - *`create a subset of first four_days <- dat[, 1:4]`*
+    - The "c()" function to subset
+    - Leaving an empty index will select all the values
+      *Create a `patient1 <- dat[1, ]` subset*
+      *Create a `day20 <- dat[ , 20]` subset*
+    - Apply `class()` and `dim()` to `patient1` and `day1`
+    - Subset vectors with `[ ]`
+    
+  - Use min, max, mean, median, and sd on the `day20` and `patient1` subset
+    - run `mean(patient1)`
+    - explain warning
+    - force conversion with `as.numeric()`
+  
+  - `summary()` does all of the above and gives helpful details about the sample distribution
+    - but it only gets summary values per column (that is per day)
+    - what if we want summary values per patient (that is per row)??
+  
+  - The function `apply()` to calculate summary statistics by rows and columns
+    - *`help(apply)`*
+    - *`avg_day_inflammation <- apply(dat, 2, mean)`*
+    - the more efficient alternative `rowMeans()` and `colMeans()`
 
 ## 1.4. Plotting data (10 min)
   - Richard Hamming, a mathematician that made contributions to informatics and communications.
+  
+  - The `plot()` function to visualize daily change in average inflammation
+  
+  -*`plot(avg_day_inflammation)`*
+  
+  - Describe the parts of a plot
   
 ## 2.0 Fundamentals of Episode 2: Creating functions (1 min)
 
@@ -98,6 +150,7 @@ Each row contains inflammation data for one patient, and each column contains in
   *Objectives of Episode 2*
 
 * Define a function that takes arguments
+* Compose a function
 * Test the returned value of a function
 * Define a function that has default arguments
 * Discuss: why we should divide programs into small, single-purpose functions
@@ -106,7 +159,7 @@ Each row contains inflammation data for one patient, and each column contains in
  - A "function" is defined as a self-contained module of code that performs a specific task. 
  - It only runs when it is called.
  - The anatomy of a function assignment is `name <- function(...args...) {...body...}`
- - Pseudocode of "fahrenheit_to_celsius"
+ - Writing a function: Pseudocode of "fahrenheit_to_celsius"
  - *Define function `fahrenheit_to_celsius()`*
 
 ## 2.2 Composing a function
@@ -114,19 +167,27 @@ Each row contains inflammation data for one patient, and each column contains in
  - Pseudocode of "celsius_to_kelvin"
  - *Create function `celsius_to_kelvin()` + green checks`*
 
+ - Compose function Fahrenheit to Kelvin
+ 
+ - Nesting functions
  - The current stack
 
 
 ## 2.3 Testing, Error Handling, and Documenting
 
-  - Creating a test for our functions allow us to check that the function is working correctly, or at least as we expect it to.
-    - all.equal()
+  - Important to check that our function is working correctly, or at least as we expect it to.
+  - To do this we can create a test
+    - fahrenheit_to_celsius(32.0) - 0 == 0
+    - all.equal() with `all.equal(fahrenheit_to_celsius(32.0), 0)`
+  
   - Handling NAs in functions that take numbers:
     - na.rm argument in mean()
-  - Handling other errors and unexpected things with warning() and stop().
+  - `fahrenheit_to_celsius("hello")` Handling other errors and unexpected things with warning() and stop().
+  
   - Informal function documentation with "#"
-  - Formal function documentation (that you access with ? and man) is written in separate `.Rd` files using a markup language similar to LaTeX that is called markdown.
-  - *EXERCISE: Functions to Create Graphs. Create the `analyze()` function. *
+  - Formal function documentation (that you access with ? and man) is written in separate `.Rd` files using a markup language similar to LaTeX that is called markdown. We will see more of this in Episode
+  
+  - *EXERCISE: Functions to Create Graphs. Create the `analyze()` function with an `apply`. *
   
 ## 2.4 Defining defaults
 

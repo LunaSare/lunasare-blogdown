@@ -24,7 +24,7 @@ ssh -vT git@github.com
 
 ### Generate the key
 
-ssh-keygen -t ed25519 -C "sanchez.reyes.luna@gmail.com"
+ssh-keygen -t ed25519 -C "your_email@email.com"
 
 ### Add the SSH key to the ssh-agent
 
@@ -51,8 +51,11 @@ And add the following text to the "~/.ssh/config" file:
 
 
 Host *
+
   AddKeysToAgent yes
+  
   UseKeychain yes
+  
   IdentityFile ~/.ssh/id_ed25519
 
 

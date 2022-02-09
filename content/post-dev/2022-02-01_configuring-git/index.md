@@ -22,9 +22,19 @@ Check if you have an ssh already with:
 ssh -vT git@github.com
 ```
 
+If you have the ssh you will get something like this:
+
+```
+Hi User NAme! You've successfully authenticated, but GitHub does not provide shell access.
+```
+
+If it is not succesful, follow to th enext section.
+
 ### Generate the key
 
+```
 ssh-keygen -t ed25519 -C "your_email@email.com"
+```
 
 ### Add the SSH key to the ssh-agent
 

@@ -12,25 +12,28 @@ tags:
 
 summary:
 ---
-## Create an ssh key and adding it to your authenticator
+## Creating an ssh key and adding it to our authenticator
 
 https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 
-Check if you have an ssh already with:
+To check if we have an ssh authentication already we run on the terminal:
 
 ```
-ssh -vT git@github.com
+ssh -v git@github.com
 ```
 
-If you have the ssh you will get something like this:
+If we have the ssh authentication we will a message like this:
 
 ```
-Hi User NAme! You've successfully authenticated, but GitHub does not provide shell access.
+Hi User Name! You've successfully authenticated, but GitHub does not provide shell access.
 ```
 
-If it is not succesful, follow to th enext section.
+If it is not succesful, follow to the next section.
 
 ### Generate the key
+
+We will write the following command by replacing the email within quotations with the email we used to sign up on github. 
+It is important to keep the quotations around the email:
 
 ```
 ssh-keygen -t ed25519 -C "your_email@email.com"
@@ -38,28 +41,29 @@ ssh-keygen -t ed25519 -C "your_email@email.com"
 
 ### Add the SSH key to the ssh-agent
 
-Start the agent:
+The following command starts the authetication agent:
+
 ```
 $ eval "$(ssh-agent -s)"
 ```
 
-To automatically load keys into the ssh-agent and store passphrases in your keychain, we need the "~/.ssh/config" file
+To automatically load keys into the ssh-agent and store passphrases in our keychain, we need a "~/.ssh/config" file
 
-Check if you already have it:
+To check if we already have it we run:
 
 ```
 ls ~/.ssh/config
 ```
 
-If it does not exist, create one with:
+If it does not exist, the command above will return an error, and we can proceed to create a file with:
 
 ```
 touch ~/.ssh/config
 ```
 
-And add the following text to the "~/.ssh/config" file:
+Now we will open the "~/.ssh/config" file with a text editor and add the following text:
 
-
+```
 Host *
 
   AddKeysToAgent yes
@@ -67,35 +71,42 @@ Host *
   UseKeychain yes
   
   IdentityFile ~/.ssh/id_ed25519
+```
 
-
-Add your SSH private key to the ssh-agent and store your passphrase in the keychain
+Back in the terminal, we can add our SSH private key to the ssh-agent and store our passphrase in the keychain with the next line of code:
 
 ```
 ssh-add -k ~/.ssh/id_ed25519
 ```
 
 
-### Finally, add the key to your account:
+### As a last step, we will add the key to our account
 
-With the github CLI:
+We can do this with the github command line if we have the `gh` program installed:
 
 ```
 gh ssh-key add ~/.ssh/id_ed25519.pub
 ```
 
-Or manually copying it and adding it to your GitHub profile:
-
-pbcopy < ~/.ssh/id_ed25519.pub
-
-Or copy/paste:
-
-cat ~/.ssh/id_ed25519.pub
-
-Check again that your ssh authentication is working with:
+Or we can manually copy it and add it to our GitHub profile.
+Copy the key with:
 
 ```
-ssh -vT git@github.com
+pbcopy < ~/.ssh/id_ed25519.pub
+```
+
+Or copy/paste from:
+
+```
+cat ~/.ssh/id_ed25519.pub
+```
+
+We will go to our GitHub profile and add the SSH key we just copied.
+
+Finally, we can check again that our ssh authentication is working with:
+
+```
+ssh -v git@github.com
 ```
 
 ## Setting up a token instead of a password for GitHub

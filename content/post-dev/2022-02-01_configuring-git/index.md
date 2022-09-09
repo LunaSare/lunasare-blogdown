@@ -130,6 +130,10 @@ https://stackoverflow.com/questions/68775869/support-for-password-authentication
 
 From your GitHub account, go to Settings => Developer Settings => Personal Access Token => Generate New Token (Give your password) => Fillup the form => click Generate token => Copy the generated Token, it will be something like ghp_sFhFsSHhTzMDreGRLjmks4Tzuzgthdvfsrta
 
+You can save your token in a text file in your computer.
+
+Use the token as your password next time you do `git push`. Follow the steps below to save this token in your git cache for the future.
+
 
 ### 2. Configure the local GIT client
 For a Linux-based OS ⤴

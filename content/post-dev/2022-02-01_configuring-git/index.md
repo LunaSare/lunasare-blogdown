@@ -39,6 +39,19 @@ It is important to keep the quotations around the email:
 ssh-keygen -t ed25519 -C "your_email@email.com"
 ```
 
+The computer will ask:
+```
+Enter file in which to save the key (/Users/lunasare/.ssh/id_ed25519):
+```
+Leave it empty and type `return`.
+
+The computer will then ask for a passphrase. Make sure to write one down, **do not leave this one empty**.
+
+```
+Enter passphrase (empty for no passphrase):
+Enter same passphrase again:
+```
+
 ### Add the SSH key to the ssh-agent
 
 The following command starts the authetication agent:

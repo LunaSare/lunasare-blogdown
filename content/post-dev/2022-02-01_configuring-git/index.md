@@ -19,7 +19,7 @@ https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generati
 To check if we have an ssh authentication already we run on the terminal:
 
 ```
-ssh -v git@github.com
+ssh -T git@github.com
 ```
 
 If we have the ssh authentication we will a message like this:
@@ -94,7 +94,7 @@ ssh-add -k ~/.ssh/id_ed25519
 
 
 ### As a last step, we will add the key to our account
-
+<!--
 We can do this with the github command line if we have the `gh` program installed:
 
 ```
@@ -107,19 +107,19 @@ Copy the key with:
 ```
 pbcopy < ~/.ssh/id_ed25519.pub
 ```
-
-Or copy/paste from:
+-->
+Copy/paste the numeric part that outputs from:
 
 ```
 cat ~/.ssh/id_ed25519.pub
 ```
 
-We will go to our GitHub profile and add the SSH key we just copied.
+Now, go to your GitHub profile and add the SSH key you just copied.
 
 Finally, we can check again that our ssh authentication is working with:
 
 ```
-ssh -v git@github.com
+ssh -T git@github.com
 ```
 
 ## Setting up a token instead of a password for GitHub

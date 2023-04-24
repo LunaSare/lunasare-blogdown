@@ -57,7 +57,7 @@ Enter same passphrase again:
 The following command starts the authetication agent:
 
 ```
-$ eval "$(ssh-agent -s)"
+eval "$(ssh-agent -s)"
 ```
 
 To automatically load keys into the ssh-agent and store passphrases in our keychain, we need a "~/.ssh/config" file
@@ -80,6 +80,8 @@ Now we will open the "~/.ssh/config" file with a text editor and add the followi
 Host *
 
   AddKeysToAgent yes
+  
+  IgnoreUnknown UseKeychain
   
   UseKeychain yes
   
